@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4 noise</title>
+     <style>
+        @font-face {
+            font-family: "ABCFavoritMono-Bold-Trial";
+            src: url("/noise-utopia/assets/fonts/ABCFavoritMono-Bold-Trial.otf") format("opentype");
+        }
+        @font-face {
+            font-family: "mono-main";
+            src: url("/noise-utopia/assets/fonts/ABCFavoritMono-Regular-Trial.otf") format("opentype");
+        }
+        @font-face {
+            font-family: "Main-Header";
+            src: url("/noise-utopia/assets/fonts/ABCFavoritExpanded-Bold-Trial.otf") format("opentype");
+        }
+
+        body {
+            font-family: "mono-main", monospace;
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            color: #dddee0;
+        }
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+.header-row {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    background-color: #dddee0;
+    border: 1px solid #dddee0;
+    color: black;
+}
+
+.header-item {
+    box-sizing: border-box;
+    flex-basis: 12.5%;  /* equivalent to 1/8 of the parent width */
+    margin: 10px 0; 
+    font-size: 80%;
+    padding-left: 10px;    /* Half of the regular margin */
+    font-family: "ABCFavoritMono-Bold-Trial", monospace; /* Using the custom font */
+    text-transform: uppercase;  /* Making the text all caps */
+}
+
+/* Using flex-grow to determine the space distribution for header items */
+.header-item:nth-child(1) { /* Year */
+    flex-grow: 1;
+}
+.header-item:nth-child(2) { /* Name */
+    flex-grow: 1;
+}
+.header-item:nth-child(3) { /* Title */
+    flex-grow: 2;
+}
+.header-item:nth-child(4) { /* Category */
+    flex-grow: 2;
+}
+
+
+.flex-row {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 0;
+    border: 1px solid #dddee0;
+    font-family: "ABCFavoritMono-Regular-Trial", monospace;
+    cursor: pointer;  /* Add this line to set the mouse cursor to pointer */
+}
+
+
+/* Hover state for .flex-row */
+.flex-row:hover {
+    background-color: #dddee0;
+}
+
+/* Change text color of the items when hovering over the parent .flex-row */
+.flex-row:hover .flex-item {
+    color: black;
+}
+
+.flex-item {
+    box-sizing: border-box;
+    flex-basis: 12.5%;  /* equivalent to 1/8 of the parent width */
+    margin: 10px 0;
+    padding: 10px;
+}
+
+/* Using flex-grow to determine the space distribution */
+.flex-item:nth-child(1) { /* Year */
+    flex-grow: 1;
+}
+.flex-item:nth-child(2) { /* Name */
+    flex-grow: 1;
+}
+.flex-item:nth-child(3) { /* Title */
+    flex-grow: 2;
+}
+.flex-item:nth-child(4) { /* Category */
+    flex-grow: 2;
+}
+
+.sticky-footer {
+    display: flex;            /* Changed from grid to flex */
+    justify-content: space-between;  /* Spread out the child elements */
+    align-items: center;      /* Center align vertically */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #000000;
+    padding: 15px;
+    /* padding-left: 15px;
+    padding-right: 15px; */
+    box-sizing: border-box;
+}
+
+.footer-item:nth-child(1) {
+    flex: 5;                 /* This will take 5 parts of available space */
+    font-size: 70px;
+    font-family: "Main-Header";
+    line-height: 65px;
+}
+
+.footer-item:nth-child(2) {
+    display: flex;
+    align-items: flex-end; /* Aligns the text (or any children) to the bottom */
+    flex: 2;
+    text-align: left;
+    font-family: "mono-main", monospace;
+}
+
+
+
+
+
+
+
+    </style>
+</head>
+<body>
+
+<div class="flex-container">
+    <!-- Manually added 10 rows with 4 columns each -->
+    <div class="header-row">
+        <div class="header-item">Year</div>
+        <div class="header-item">Name</div>
+        <div class="header-item">Title</div>
+        <div class="header-item">Category</div>
+    </div>
+
+    <div class="flex-row">
+        <div class="flex-item">2023</div>
+        <div class="flex-item">Distance in Motion</div>
+        <div class="flex-item">Piece Peace</div>
+        <div class="flex-item">Essay, Lecture, Performance</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 01</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="flex-row">
+        <div class="flex-item">Column 1</div>
+        <div class="flex-item">Column 2</div>
+        <div class="flex-item">Column 3</div>
+        <div class="flex-item">Column 4</div>
+    </div>
+    <div class="sticky-footer">
+        <div class="footer-item">UTOPIAN NOISE ARCHIVE</div>
+        <div class="footer-item">info ↗<br>contact / submit ↗</div>
+     
+    </div>
+</div>
+
+</body>
+</html>

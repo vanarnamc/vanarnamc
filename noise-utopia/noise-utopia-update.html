@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UTOPIAN NOISE</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22256%22 height=%22256%22><rect width=%22256%22 height=%22256%22 fill=%22%23c5a8de%22/></svg>"
+      type="image/svg+xml"
+    />
+    <style>
+      @font-face {
+        font-family: "ABCFavoritMono-Bold-Trial";
+        src: url("assets/fonts/ABCFavoritMono-Bold-Trial.otf")
+          format("opentype");
+      }
+
+      @font-face {
+        font-family: "mono-main";
+        src: url("assets/fonts/ABCFavoritMono-Regular-Trial.otf")
+          format("opentype");
+      }
+
+      @font-face {
+        font-family: "Main-Header";
+        src: url("assets/fonts/ABCFavoritExpanded-Bold-Trial.otf")
+          format("opentype");
+      }
+
+      body {
+        font-family: "mono-main", monospace;
+        margin: 0;
+        padding: 0;
+        background-color: #222322;
+        color: #dddee0;
+        box-sizing: border-box;
+      }
+
+      *,
+      *:before,
+      *:after {
+        box-sizing: border-box;
+      }
+
+      :root {
+        --year-width: 10%;
+        --name-width: 23%;
+        --title-width: 45%;
+        --category-width: 90%;
+        --footer-height: 120px;
+      }
+
+      .flex-container {
+        display: flex;
+        flex-direction: column;
+        padding: 15px;
+        max-height: calc(100vh - var(--footer-height));
+        overflow-y: auto;
+        overflow-x: hidden;
+      }
+      .blink {
+    -webkit-animation: blink 2s infinite both;
+            animation: blink 2s infinite both;
+}
+
+@-webkit-keyframes blink {
+  0%,
+  50%,
+  100% {
+    opacity: 1;
+  }
+  25%,
+  75% {
+    opacity: 0;
+  }
+}
+@keyframes blink {
+  0%,
+  50%,
+  100% {
+    opacity: 1;
+  }
+  25%,
+  75% {
+    opacity: 0;
+  }
+}
+
+      .header-row {
+        background-color: #dddee0;
+        color: #626461;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 10px;
+        position: relative;
+      }
+
+      .header-row,
+      .row-content {
+        display: grid;
+        grid-template-columns: var(--year-width) var(--name-width) var(
+            --title-width
+          ) var(--category-width) auto;
+        border-bottom: 1px solid #dddee0;
+        padding: 10px;
+        align-items: center;
+      }
+
+      .row-container {
+        border: 1px solid #dddee0;
+        position: relative;
+      }
+
+      .row-container:hover .row-content {
+        background-color: #c5a8de;
+      }
+
+      .row-container:hover .flex-item {
+        color: #626461;
+      }
+
+      .expand-collapse-symbol {
+        text-align: center;
+      }
+
+      .row-content {
+        cursor: crosshair;
+      }
+
+      .row-content a {
+        cursor: pointer;
+      }
+
+      .row-container.expanded .row-content {
+        cursor: zoom-out;
+      }
+      .flex-item {
+        padding-right: 15px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        position: relative;
+      }
+
+      .flex-item-title:hover {
+        text-decoration: underline;
+        cursor: pointer;
+      }
+
+      .flex-item-title:hover::after {
+        content: " ↗";
+      }
+
+      .same-category-highlight {
+        background-color: #333;
+      }
+
+      .description {
+        display: none;
+        width: 100%;
+        padding: 10px;
+        background-color: #c5a8de;
+        border-top: 1px solid #dddee0;
+      }
+
+      .row-container.expanded .description {
+        display: block;
+      }
+
+      .row-content::after {
+        content: "+";
+        position: absolute;
+        right: 10px;
+        top: 50%;
+        transform: translateY(-50%);
+        z-index: 2;
+      }
+
+      .row-container.expanded .row-content::after {
+        content: "-";
+      }
+
+      .sticky-footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: var(--footer-height);
+        background-color: #c5a8de;
+        padding: 15px 0;
+        z-index: 3;
+        overflow: hidden;
+      }
+      .special-header-row {
+        background-color: black;
+        height: 40px;
+        position: fixed;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        padding-right: 0; /* Add this line */
+
+      }
+      .tickerwrapper {
+        overflow: hidden;
+        white-space: nowrap;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+      }
+
+      .list,
+      .listitem {
+        padding: 0;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      ul,
+      li {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      .footer-item {
+        font-size: 70px;
+        display: flex;
+        flex-direction: column;
+        font-family: "Main-Header";
+        margin-right: 50px;
+        align-items: center;
+        line-height: 0;
+        padding-top: 13px;
+      }
+      #songTitle {
+    font-size: 16px; /* Adjust font size as needed */
+    color: white; 
+    margin-right: 10px; /* Adjust spacing between title and play button */
+    transition: opacity 0.7s;
+}.player-controls {
+    display: flex;
+    align-items: center;
+}
+#playButton {
+    padding: 0;
+    margin: 0;
+    border: none;
+    background: none;
+}
+
+      #playButton .play-icon,
+      #playButton .stop-icon {
+        width: 40px;
+        height: 40px;
+        /* fill: #dddee0; */
+        vertical-align: middle;
+        cursor: pointer;
+      }
+      #playButton .play-icon {
+        display: none; /* Initially hidden */
+      }
+
+      #playButton[data-playing="false"] .play-icon {
+        display: inline-block;
+      }
+
+      #playButton[data-playing="false"] .stop-icon {
+        display: none;
+      }
+
+      #playButton[data-playing="true"] .stop-icon {
+        display: inline-block;
+      }
+    </style>
+  </head>
+
+  <body>
+    <iframe
+      id="sc-player"
+      width="0"
+      height="0"
+      scrolling="no"
+      frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https://soundcloud.com/ambientmusicalgenre/essential-ambient-mix&auto_play=false"
+      style="display: none"
+    ></iframe>
+
+    <div class="flex-container">
+      <!-- Headers for the black top table -->
+      <div class="special-header-row">
+        <div class="header-item"></div>
+        <div class="header-item"></div>
+        <div class="header-item"></div>
+        <div class="header-item"></div>
+        <div class="player-controls">
+        <span id="songTitle" style="display: none;"></span>
+        <button id="playButton" data-playing="false">
+          <svg
+            class="play-icon"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            preserveAspectRatio="xMidYMid meet"
+
+          >
+            <path d="M8 5v14l11-7z" fill="#ffffff" />
+          </svg>
+          <svg
+            class="stop-icon"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            preserveAspectRatio="xMidYMid meet"
+
+          >
+            <path d="M6 6h12v12H6z" fill="#ffffff"/>
+          </svg>
+        </button>
+      </div>
+      </div>
+
+      <div class="header-row">
+        <div class="header-item">Year</div>
+        <div class="header-item">Name</div>
+        <div class="header-item">Title</div>
+        <div class="header-item">Category</div>
+        <div class="header-item"></div>
+        <!-- this is for the + symbol -->
+      </div>
+
+      <!-- This is where the rows from the JSON will be injected -->
+
+      <div class="sticky-footer">
+        <div class="tickerwrapper">
+          <ul class="list">
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            <li class="footer-item">UTOPIAN NOISE ARCHIVE</li>
+            Added duplicate
+          </ul>
+        </div>
+      </div>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+      <script src="https://w.soundcloud.com/player/api.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+      <script src="marque.js" defer></script>
+      <script src="table.js" defer></script>
+      <script>
+const playButton = document.getElementById("playButton");
+const scIframe = document.getElementById("sc-player");
+const scPlayer = SC.Widget(scIframe);
+const songTitleElement = document.getElementById("songTitle");
+
+let isPlaying = false;
+
+playButton.addEventListener("click", function () {
+    if (isPlaying) {
+        scPlayer.pause();
+        isPlaying = false;
+        playButton.setAttribute("data-playing", "false");
+
+        // Hide the song title
+        songTitleElement.style.display = "none";
+    } else {
+        scPlayer.play();
+        isPlaying = true;
+        playButton.setAttribute("data-playing", "true");
+        
+        // Show the song title immediately
+        scPlayer.getCurrentSound(function(song) {
+          songTitleElement.textContent = "Now Playing: " + song.title;
+            // Show and blink the song title
+            songTitleElement.style.display = "inline-block";
+            songTitleElement.classList.add('blink');
+        });
+    }
+});
+
+
+
+      </script>
+    </div>
+  </body>
+</html>
