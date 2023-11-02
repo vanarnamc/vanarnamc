@@ -155,33 +155,32 @@
         }
       }
 
-      function createDropboxRawLink(link) {
-        return link + "&raw=1";
-      }
+      // function createDropboxRawLink(link) {
+      //   return link + "&raw=1";
+      // }
 
       function createGridItem(data) {
         const gridItem = document.createElement("div");
         gridItem.classList.add("grid-item");
         gridItem.setAttribute("data-category", data.category);
-
+      
         const link = document.createElement("a");
         link.target = "_blank";
         link.href = data.link;
         gridItem.appendChild(link);
-
+      
         const img = document.createElement("img");
-        img.src = data.image
-          ? createDropboxRawLink(data.image)
-          : 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250"><rect width="250" height="250" fill="red"/></svg>';
+        // Directly assign the image URL from the data without modification
+        img.src = data.image ? data.image : 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250"><rect width="250" height="250" fill="red"/></svg>';
         link.appendChild(img);
-
+      
         const overlay = document.createElement("div");
         overlay.classList.add("overlay");
         overlay.innerHTML = `<h3>${data.title}</h3><p>${data.year} - ${data.name}</p>`;
         link.appendChild(overlay);
-
+      
         return gridItem;
-      }
+      }      
 
       function filterGrid(category) {
         const gridItems = document.querySelectorAll(".grid-item");
