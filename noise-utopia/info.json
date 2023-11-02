@@ -1,12 +1,22 @@
 {
   "Sheet1": [
     {
+      "year": "n/a",
+      "name": "Singing sand",
+      "title": "Singing sand",
+      "category": "Information / Article",
+      "link": "https://en.wikipedia.org/wiki/Singing_sand",
+      "description": "Article describing the phenomenon 'singing sands' which influenced many shamans, and music makers inspired by nature. ",
+      "image": "https://www.dropbox.com/scl/fi/aqpuhiio91elnr8lfiskn/singing.jpeg?rlkey=dj43ro52lxbqhmxrpy0zdgqb6&dl=0"
+    },
+    {
       "year": "2023",
       "name": "Mixmaster Moris",
       "title": "Mixmaster Moris Mixcloud",
       "category": "Compilation",
       "link": "https://www.mixcloud.com/mixmastermorris/stream/",
-      "description": "Mixmaster Morris is an English electronica DJ and underground musician who has also recorded as The Irresistible Force. His work in the 1990s blended ambient music and chill-out influences with UK dance styles."
+      "description": "Mixmaster Morris is an English electronica DJ and underground musician who has also recorded as The Irresistible Force. His work in the 1990s blended ambient music and chill-out influences with UK dance styles.",
+      "image": "https://www.dropbox.com/scl/fi/pilbjuruvvav5ykj8xbt6/2023_mixMasterMorris.jpg?rlkey=x8b8jhe8p8qpho8fv1jz6rxtk&dl=0"
     },
     {
       "year": "2023",
@@ -14,7 +24,8 @@
       "title": "My Noise is Nothing",
       "category": "Album",
       "link": "https://lordoftheisles.bandcamp.com/album/my-noise-is-nothing",
-      "description": "‘My Noise is Nothing’ is the collaborative LP between Lord of The Isles and Scottish poet Ellen Renton, set for release on the 29th September 2023."
+      "description": "‘My Noise is Nothing’ is the collaborative LP between Lord of The Isles and Scottish poet Ellen Renton, set for release on the 29th September 2023.",
+      "image": "https://www.dropbox.com/scl/fi/8e9guhmbw4tfvwl8u38s6/2023_Lord-of-The-Isles-Ellen-Renton.jpeg?rlkey=j4e66bmesnqamen5b5m5sh8lk&dl=0"
     },
     {
       "year": "2022",
@@ -22,7 +33,8 @@
       "title": "Interview with Tery Riley",
       "category": "Interview",
       "link": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Interview_Terry-Reilly.pdf",
-      "description": "Interview with Tery Riley from the Library of Congress"
+      "description": "Interview with Tery Riley",
+      "image": "https://www.dropbox.com/scl/fi/9ii1fixp9amuev4xlj68b/2022_terryRiley.png?rlkey=z2t9xhqhn4ue6g6btj2ufybyr&dl=0"
     },
     {
       "year": "2022",
@@ -30,7 +42,8 @@
       "title": "Walking through Tokyo",
       "category": "Essay",
       "link": "http://www.sarahpeebles.net/108tokyo/Yoshimura%20English.pdf",
-      "description": "laewroi adsfkj test stoiajsddf astoij asdtoaosdfoijas dfaopisjdf asodf;lajsdf; asdfijap sdfijasdf"
+      "description": "Essay on “Walking through Tokyo\" audio, “sound chaos” and Asian soundscapes",
+      "image": "https://www.dropbox.com/scl/fi/4s83hskr5532jsj8zo4w5/2022_hiroshiYoshimura_walkingThroughTokyo.png?rlkey=f5rdmuqmetxpb5numw73p01tv&dl=0"
     },
     {
       "year": "2021",
@@ -38,7 +51,8 @@
       "title": "Shade",
       "category": "Album",
       "link": "https://grouper.bandcamp.com/album/shade",
-      "description": "laewroi adsfkj test stoiajsddf astoij asdtoaosdfoijas dfaopisjdf asodf;lajsdf; asdfijap sdfijasdf"
+      "description": "Album from Grouper.",
+      "image": "https://www.dropbox.com/scl/fi/sby8ak6cgnb17m60jfm7z/2021_grouperShade.jpg?rlkey=lipovh0nkbymqkqfkn50cq90v&dl=0"
     },
     {
       "year": "2021",
@@ -46,7 +60,8 @@
       "title": "Music That Lives With You: Japanese Environmental Music on Bandcamp",
       "category": "Essay",
       "link": "https://daily.bandcamp.com/lists/japanese-environmental-music-list",
-      "description": "laewroi adsfkj test stoiajsddf astoij asdtoaosdfoijas dfaopisjdf asodf;lajsdf; asdfijap sdfijasdf"
+      "description": "Essay describing Japanese ambient music on bandcamp. ",
+      "image": "https://www.dropbox.com/scl/fi/d7n9kw2zm3u9usvevbqss/2021_shyThompson_musicThatLivesWithYou.jpeg?rlkey=ygl7u4edea9epflnm6c4fu6ib&dl=0"
     },
     {
       "year": "2021",
@@ -54,7 +69,8 @@
       "title": "Mary Lattimore - Silver Ladders",
       "category": "Film",
       "link": "https://www.youtube.com/watch?v=FZaw2W93pvo",
-      "description": "laewroi adsfkj test stoiajsddf astoij asdtoaosdfoijas dfaopisjdf asodf;lajsdf; asdfijap sdfijasdf"
+      "description": "Mary Lattimore film",
+      "image": "https://www.dropbox.com/scl/fi/fug5jndtwhj3ky021e72o/2021_RachaelPonyCassells_MaryLattimore_silverLadders.png?rlkey=fui6p9oskeha3b1mhm351x7ne&dl=0"
     },
     {
       "year": "2021",
@@ -62,7 +78,8 @@
       "title": "Brian Eno: The Innovator",
       "category": "Interview",
       "link": "https://www.youtube.com/watch?v=BOtrCYyf4cg",
-      "description": "laewroi adsfkj test stoiajsddf astoij asdtoaosdfoijas dfaopisjdf asodf;lajsdf; asdfijap sdfijasdf"
+      "description": "Interview with Brian Eno on sound",
+      "image": "https://www.dropbox.com/scl/fi/14azjtesf6gfiu2cj16iy/2021_brokenRecordPodcast_brianEno.png?rlkey=dpgbckgs3rw0e9k9fihxho1pi&dl=0"
     },
     {
       "year": "2021",
@@ -70,7 +87,8 @@
       "title": "Laraaji - Interview & Performance",
       "category": "Performance",
       "link": "https://www.youtube.com/watch?v=4VIe2EKSPxc",
-      "description": "laewroi adsfkj test stoiajsddf astoij asdtoaosdfoijas dfaopisjdf asodf;lajsdf; asdfijap sdfijasdf"
+      "description": "Performance on local station from Laraaji",
+      "image": "https://www.dropbox.com/scl/fi/ggdvwkqr58xhnqoiet12o/2021_KEXP.png?rlkey=dttjeo66tho2zxygqy0vnsqd0&dl=0"
     },
     {
       "year": "2021",
@@ -78,21 +96,26 @@
       "title": "The Relationship of Rock Writing and Acoustics",
       "category": "Essay",
       "link": "https://shpo.nv.gov/posts/the-relationship-of-rock-writing-and-acoustics",
-      "description": "laewroi adsfkj test stoiajsddf astoij asdtoaosdfoijas dfaopisjdf asodf;lajsdf; asdfijap sdfijasdf"
+      "description": "Essay on writing on caves through sound",
+      "image": "https://www.dropbox.com/scl/fi/pexlwxpzel6wvefskrzlb/2021_stevenWaller_TheRelationshipOfRockWriting.png?rlkey=j3si4ml6nzh00i2knh7xx4431&dl=0"
     },
     {
       "year": "2020",
       "name": "Simon Scott",
       "title": "Migrations",
       "category": "Album",
-      "link": "https://simonscott.bandcamp.com/album/migrations"
+      "link": "https://simonscott.bandcamp.com/album/migrations",
+      "description": "Album from Simon Scott",
+      "image": "https://www.dropbox.com/scl/fi/qjrddbqtv7ntxq8s20w2f/2020_simonScott_migrations.jpg?rlkey=5b4kz24o25acqn835mr2tgvph&dl=0"
     },
     {
       "year": "2020",
       "name": "Lisa Rovner",
       "title": "Sisters with Transistors",
       "category": "Film",
-      "link": "https://sisterswithtransistors.com/"
+      "link": "https://sisterswithtransistors.com/",
+      "description": "Film exploring the power of female's behind synthesizers",
+      "image": "https://www.dropbox.com/scl/fi/jvai2naq1on4h04viep8e/2020_sisters.png?rlkey=nj7mnr5wrd3j4y17csokg8qmi&dl=0"
     },
     {
       "year": "2020",
@@ -100,7 +123,8 @@
       "title": "Locus 3 Across Road Far Field",
       "category": "Field Recording",
       "link": "https://vimeo.com/430615444",
-      "description": "Reseracher shows the reverberation and the effects of site specific cave dwellings."
+      "description": "Reseracher shows the reverberation and the effects of site specific cave dwellings.",
+      "image": "https://www.dropbox.com/scl/fi/a5ag9vl5bed8v0ycuc8d5/2020_steveDudrow_LocusAcrossRoadFarField.png?rlkey=se0rqrqiiyrlfkztksskgvp1k&dl=0"
     },
     {
       "year": "2020",
@@ -108,7 +132,8 @@
       "title": "Kraftwerk Future Music From Germany ",
       "category": "Book",
       "link": "https://archive.org/details/kraftwerk-future-music-from-germany-by-uwe-schutte",
-      "description": "Schütte sees Kraftwerk's music as “a contribution to the political, cultural and moral rebuilding of Germany” after the second world war."
+      "description": "Schütte sees Kraftwerk's music as “a contribution to the political, cultural and moral rebuilding of Germany” after the second world war.",
+      "image": "https://www.dropbox.com/scl/fi/25d5euqu09rasbc4mxxfw/2020_uweSh-tte_kraftwerkFutureMusicFromGermany.png?rlkey=v7793l2368h4sh2zzpeuecwwa&dl=0"
     },
     {
       "year": "2020",
@@ -116,7 +141,8 @@
       "title": "How to create a culture",
       "category": "Article",
       "link": "https://thecreativelife.net/how-to-create-a-culture/",
-      "description": "Article describing the importance of dance music, ambient music and underground culture. "
+      "description": "Article describing the importance of dance music, ambient music and underground culture. ",
+      "image": "https://www.dropbox.com/scl/fi/m59mrp8nlrxv1hpre3mfp/2020_sherylGarratt.jpg?rlkey=zx0gl9g4r596jmiucd4aapjl1&dl=0"
     },
     {
       "year": "2020",
@@ -124,28 +150,35 @@
       "title": "LONG READ: THE STORY OF CHILL OUT MUSIC, 1988-95",
       "category": "Article",
       "link": "https://jointhefuture.net/2020/09/10/long-read-the-story-of-chill-out/",
-      "description": "Article describing chill out music. "
+      "description": "Article describing chill out music. ",
+      "image": "https://www.dropbox.com/scl/fi/4iie3dyjcfrc0k3w866os/2020_mattanniss_storyOfChillOutMusic.jpg?rlkey=dcs1jfrxku5rk8m35alugvqy5&dl=0"
     },
     {
       "year": "2019",
       "name": "Alex Bainter",
       "title": "What “Ambient” Music Means to Me",
       "category": "Essay",
-      "link": "https://medium.com/@alexbainter/what-ambient-music-means-to-me-adaac4e277c2"
+      "link": "https://medium.com/@alexbainter/what-ambient-music-means-to-me-adaac4e277c2",
+      "description": "Essay describing ambient music.",
+      "image": "https://www.dropbox.com/scl/fi/qihhclmjrwmozwtcv82fw/2019_alexBainter_whatAmbientMusicMeansToMe.png?rlkey=ch7z16q71b4bx76foqkuk1saf&dl=0"
     },
     {
       "year": "2019",
       "name": "Alex Bainter",
       "title": "Introduction to Generative Music",
       "category": "Essay",
-      "link": "https://medium.com/@alexbainter/introduction-to-generative-music-91e00e4dba11"
+      "link": "https://medium.com/@alexbainter/introduction-to-generative-music-91e00e4dba11",
+      "description": "Essay introducing key concepts to generative music. ",
+      "image": "https://www.dropbox.com/scl/fi/p8ra0viy0rksyaddmy2x9/2019_alexBainter_IntroToGenerativeMusic.png?rlkey=1ezo6qh7xvivdtp7kkk2hqbul&dl=0"
     },
     {
       "year": "2019",
       "name": "Noisey",
       "title": "Brian Eno on Apollo",
       "category": "Interview",
-      "link": "https://www.youtube.com/watch?v=WTxkLGBkcO0"
+      "link": "https://www.youtube.com/watch?v=WTxkLGBkcO0",
+      "description": "Interview with Brian Eno on the album Apollo",
+      "image": "https://www.dropbox.com/scl/fi/lg7zx35sqja6rxpgyb9uq/2019_noisey_BrianEnoApollo.png?rlkey=sfu31lbenorr0shydfo6bwgfv&dl=0"
     },
     {
       "year": "2019",
@@ -153,14 +186,17 @@
       "title": "Autechre - Sleep Mix",
       "category": "Performance",
       "link": "https://www.youtube.com/watch?v=f_ZZ0vIOdBQ",
-      "description": "Autechre live sleep mix. "
+      "description": "Autechre live sleep mix. ",
+      "image": "https://www.dropbox.com/scl/fi/y9xgypkfs0zz8glf74f1e/2019_autechre_sleepMix.png?rlkey=0d9dw0noyazlid5z9vax0gbdh&dl=0"
     },
     {
       "year": "2019",
       "name": "Grouper",
       "title": "Grouper - Sleep Mix",
       "category": "Performance",
-      "link": "https://www.youtube.com/watch?v=CgpLOFunJi4&t=1078s"
+      "link": "https://www.youtube.com/watch?v=CgpLOFunJi4&t=1078s",
+      "description": "Live Grouper performance.",
+      "image": "https://www.dropbox.com/scl/fi/tzj4a9b9ka6w0adzxj7vb/2019_grouper_SleepMix.png?rlkey=rx7jyu30g03yoctb5u9rz4uuc&dl=0"
     },
     {
       "year": "2019",
@@ -168,7 +204,8 @@
       "title": "Forty years of Heaven – and why that even matters.",
       "category": "Article",
       "link": "https://thecreativelife.net/forty-years-of-heaven-and-why-that-matters/",
-      "description": "Article about nightclub Heaven."
+      "description": "Article about nightclub Heaven.",
+      "image": "https://www.dropbox.com/scl/fi/io0xhlnpove4d0gnzh3qq/2019_sherylGarratt.png?rlkey=qxirpxaamxi5791o33uj5u7k6&dl=0"
     },
     {
       "year": "2019",
@@ -176,7 +213,8 @@
       "title": "Radio Amnion",
       "category": "Website",
       "link": "https://radioamnion.net/",
-      "description": "RADIO AMNION: SONIC TRANSMISSIONS OF CARE IN OCEANIC SPACE is a multi-year sound art project for the waters of Earth, commissioning and relaying new compositions by contemporary artists more than 2kms deep with/in the Pacific Ocean. During each full moon, far beyond human perception, the abyssal waters of Cascadia Basin resonate with the deep frequencies and voices of invited artists. All transmissions are relayed in the sea through a submerged neutrino telescope experiment’s calibration system and available here online only during the three days of each full moon. Register to be notified for our next transmissions."
+      "description": "RADIO AMNION: SONIC TRANSMISSIONS OF CARE IN OCEANIC SPACE is a multi-year sound art project for the waters of Earth, commissioning and relaying new compositions by contemporary artists more than 2kms deep with/in the Pacific Ocean. During each full moon, far beyond human perception, the abyssal waters of Cascadia Basin resonate with the deep frequencies and voices of invited artists. All transmissions are relayed in the sea through a submerged neutrino telescope experiment’s calibration system and available here online only during the three days of each full moon. Register to be notified for our next transmissions.",
+      "image": "https://www.dropbox.com/scl/fi/q1wdusif5k3y2ym3aktsd/2019_joelThompson_RadioAmnion.png?rlkey=klr8emelxbz9f3ek6ia9qp54l&dl=0"
     },
     {
       "year": "2019",
@@ -184,35 +222,44 @@
       "title": "The Lunar Phases of St. GIGA",
       "category": "Essay",
       "link": "http://www.sothismedias.com/home/the-lunar-phases-of-st-giga",
-      "description": "Essay describing the techniques of programing for St GIGA. A Japanese ambient radio station. "
+      "description": "Essay describing the techniques of programing for St GIGA. A Japanese ambient radio station. ",
+      "image": "https://www.dropbox.com/scl/fi/8sx1jiev1cjsvtg649e7n/2019_justinPatric.png?rlkey=ul83h3neys9syag0a62nxs9xc&dl=0"
     },
     {
       "year": "2018",
       "name": "David Topp",
       "title": "Ocean of Sound",
       "category": "Book",
-      "link": "https://www.semcoop.com/ocean-sound-ambient-sound-and-radical-listening-age-communication"
+      "link": "https://www.semcoop.com/ocean-sound-ambient-sound-and-radical-listening-age-communication",
+      "description": "In depth book on Ambient Music",
+      "image": "https://www.dropbox.com/scl/fi/fymdevvsv4kil9cf0k0qk/2018_davidToop_OceanOfSound.jpg?rlkey=7sjz5edgkdlqzn731wawvstyw&dl=0"
     },
     {
       "year": "2018",
       "name": "Resident Advisor",
       "title": "Why Drexciya took Detroit electro underwater",
       "category": "Film",
-      "link": "https://www.youtube.com/watch?v=fgG-QiChiA8"
+      "link": "https://www.youtube.com/watch?v=fgG-QiChiA8",
+      "description": "Film on the context of legendary band, Drexia.",
+      "image": "https://www.dropbox.com/scl/fi/i9k5pvtifzf31yivjwdao/2018_residentAdvisor_WhyDrexiyaTookDetroitTechnoUnderwater.png?rlkey=8vr28qb7c0q42hvo60uri0w5p&dl=0"
     },
     {
       "year": "2018",
       "name": "Grouper",
       "title": "Grid of Points",
       "category": "Album",
-      "link": "https://grouper.bandcamp.com/album/grid-of-points"
+      "link": "https://grouper.bandcamp.com/album/grid-of-points",
+      "description": "Ambient album from Grouper.",
+      "image": "https://www.dropbox.com/scl/fi/4dct6ygvxxwwc8ap7nfgg/2018_grouper_gridOfPoints.jpg?rlkey=wu3mf78atwbxt8ds5wnfmdpn6&dl=0"
     },
     {
       "year": "2018",
       "name": "Resident Advisor",
       "title": "RA Live: dublab presents Mary Lattimore",
       "category": "Performance",
-      "link": "https://www.youtube.com/watch?v=IcdIuXy53gI&t=2s"
+      "link": "https://www.youtube.com/watch?v=IcdIuXy53gI&t=2s",
+      "description": "Mary Latimore live performance.",
+      "image": "https://www.dropbox.com/scl/fi/8aheacxnrk8ms64zmw864/2018_ResidentAdvisor_MaryLattimore.png?rlkey=mk0dej0x3aoa0kdunrvj1jkry&dl=0"
     },
     {
       "year": "2018",
@@ -220,7 +267,8 @@
       "title": "A Meditation On Listening",
       "category": "Film",
       "link": "https://www.youtube.com/watch?v=wdhzVFZlKsM",
-      "description": "Exploring the electronic sound of the Moog One, and the transformational power of Listening, the film features some of the world’s most accomplished and creative artists: Jeff Bhasker, Suzanne Ciani, Chick Corea, Mike Dean, Robert Glasper, Dick Hyman, Dev Hynes, Mark Mothersbaugh, Mark Ronson, Ryuichi Sakamoto, Dr. Lonnie Smith, and Paris Strother."
+      "description": "Exploring the electronic sound of the Moog One, and the transformational power of Listening, the film features some of the world’s most accomplished and creative artists: Jeff Bhasker, Suzanne Ciani, Chick Corea, Mike Dean, Robert Glasper, Dick Hyman, Dev Hynes, Mark Mothersbaugh, Mark Ronson, Ryuichi Sakamoto, Dr. Lonnie Smith, and Paris Strother.",
+      "image": "https://www.dropbox.com/scl/fi/a2nfbbfbbef1n5dkmnkcb/2018_moogOne_meditationOnListening.png?rlkey=17nje06ly1pqbmv3oznbqhhgd&dl=0"
     },
     {
       "year": "2018",
@@ -228,21 +276,26 @@
       "title": "HELIX ",
       "category": "Mix",
       "link": "https://soundcloud.com/dr-atmo/helix-tranceleberation",
-      "description": "Ambient mix by dr.atmo"
+      "description": "Ambient mix by dr.atmo",
+      "image": "https://www.dropbox.com/scl/fi/9yo81ko3uitgt037cocpo/2018_DrAtmo.png?rlkey=6jbvar3yycacf1es3vxxdz995&dl=0"
     },
     {
       "year": "2017",
       "name": "Pauline Oliveros",
       "title": "Tuning Meditation",
       "category": "Performance",
-      "link": "https://www.youtube.com/watch?v=g5bj8sO2-WY&t=22s"
+      "link": "https://www.youtube.com/watch?v=g5bj8sO2-WY&t=22s",
+      "description": "Live performance from Pauline Oliveros.",
+      "image": "https://www.dropbox.com/scl/fi/3bmhk9fkgw78hd7imztca/2017_PaulineOliveros_TuningMeditations.png?rlkey=x6dscz9dacqikxc388po6l0ih&dl=0"
     },
     {
       "year": "2017",
       "name": "Bruno Fazenda",
       "title": "Cave acoustics in prehistory: Exploring the association of Palaeolithic visual motifs and acoustic response ",
       "category": "Research Paper",
-      "link": "https://pubs.aip.org/asa/jasa/article/142/3/1332/613146/Cave-acoustics-in-prehistory-Exploring-the"
+      "link": "https://pubs.aip.org/asa/jasa/article/142/3/1332/613146/Cave-acoustics-in-prehistory-Exploring-the",
+      "description": "Research paper exploring the topics of acoustics in caves.",
+      "image": "https://www.dropbox.com/scl/fi/48h5zaj8hvkihm2tq8nm5/2017_brunoFazenda_caveAcoustics.png?rlkey=4a8pi963lija7xblaqn9ff6ey&dl=0"
     },
     {
       "year": "2017",
@@ -250,21 +303,26 @@
       "title": "Fourth World in the 21st century",
       "category": "Essay",
       "link": "https://ra.co/features/2984",
-      "description": "Article describing John Hassell's 'fourth world' and how it relates to the 21st century."
+      "description": "Article describing John Hassell's 'fourth world' and how it relates to the 21st century.",
+      "image": "https://www.dropbox.com/scl/fi/f8x2z75rzj4zltp8qwth3/2017_johnHath.png?rlkey=w1kzxjzkfwfg6sj8edevzbxpe&dl=0"
     },
     {
       "year": "2016",
       "name": "Max Richter",
       "title": "SLEEP",
       "category": "Film, Performance",
-      "link": "https://www.youtube.com/watch?v=lHMCE-c8sUc"
+      "link": "https://www.youtube.com/watch?v=lHMCE-c8sUc",
+      "description": "Max RIchter's Sleep performance.",
+      "image": "https://www.dropbox.com/scl/fi/fpxuv2zairq5kwh5qsevh/2016_maxRichter_Sleep.png?rlkey=c91vrn8mcfofoj22z5uvh9m7x&dl=0"
     },
     {
       "year": "2015",
       "name": "David Lynch",
       "title": "David Lynch explains Transcendental Meditation",
       "category": "Film",
-      "link": "https://www.youtube.com/watch?v=Em3XplqnoF4"
+      "link": "https://www.youtube.com/watch?v=Em3XplqnoF4",
+      "description": "David Lynch explains Transcendental Meditation",
+      "image": "https://www.dropbox.com/scl/fi/fmjyg78svwvu368fz6t9p/2015_davidLynch_DLexplainsTM.png?rlkey=nv5ad33dpk6ry042gxds4h15n&dl=0"
     },
     {
       "year": "2015",
@@ -272,63 +330,80 @@
       "title": "Neroli",
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=wfErixxrKdI",
-      "description": "Album originally recorded for installations in 1988."
+      "description": "Album originally recorded for installations in 1988.",
+      "image": "https://www.dropbox.com/scl/fi/91c0zp6lptziadtwi8ppi/1993_brianEno_neroli.jpg?rlkey=bhohjrxt3wmnnpi8r27jjygw0&dl=0"
     },
     {
       "year": "2014",
       "name": "Paul Clipson",
       "title": "Hynosis Display",
       "category": "Film",
-      "link": "https://www.youtube.com/watch?v=31kNM4YR6AM&t=2s"
+      "link": "https://www.youtube.com/watch?v=31kNM4YR6AM&t=2s",
+      "description": "2014 film from Paul Clipson",
+      "image": "https://www.dropbox.com/scl/fi/jvrw0g7xxqd2m7sjdvr9j/2014_paulClipson_hypnosisDisplay.png?rlkey=em2vxuc4lwaobpyieh56bmt8v&dl=0"
     },
     {
       "year": "2014",
       "name": "Grouper",
       "title": "Ruins",
       "category": "Album",
-      "link": "https://www.youtube.com/watch?v=GJgXdSVFnJE"
+      "link": "https://www.youtube.com/watch?v=GJgXdSVFnJE",
+      "description": "Grouper's 2014 album Ruins",
+      "image": "https://www.dropbox.com/scl/fi/fsl4vs8ge3ptvrwhurirb/2014-grouper-ruins.jpeg?rlkey=xmvljg9uezjtnwhz4gy0ou89i&dl=0"
     },
     {
       "year": "2014",
       "name": "Grouper",
       "title": "Dragging a Dead Deer Up a Hill",
       "category": "Album",
-      "link": "https://grouper.bandcamp.com/album/dragging-a-dead-deer"
+      "link": "https://grouper.bandcamp.com/album/dragging-a-dead-deer",
+      "description": "Grouper's 2014 album Dragging a Dead Deer Up a Hill",
+      "image": "https://www.dropbox.com/scl/fi/u8mdrr35kbxnndff84zg2/2014_grouper_draggingADeadDeerUpaHill.jpg?rlkey=b4sdu5rnkrc7kgcadkfu6sfde&dl=0"
     },
     {
       "year": "2014",
       "name": "Vladislav Delay",
       "title": "Visa",
       "category": "Album",
-      "link": "https://vladislavdelay.bandcamp.com/album/visa"
+      "link": "https://vladislavdelay.bandcamp.com/album/visa",
+      "description": "Album from Vladislav Delay",
+      "image": "https://www.dropbox.com/scl/fi/cc30y6riv7yvf0psebao8/2014_vladislavDelay_Visa.jpg?rlkey=41te6c0mlq404uzgxpw4eh8bf&dl=0"
     },
     {
       "year": "2013",
       "name": "Huerco S.",
       "title": "Colonial Patterns",
       "category": "Album",
-      "link": "https://huercos.bandcamp.com/album/colonial-patterns"
+      "link": "https://huercos.bandcamp.com/album/colonial-patterns",
+      "description": "Album from Huerco S.",
+      "image": "https://www.dropbox.com/scl/fi/jt85i8r6i1p3d985o9dkk/2013_huercoSColonialPatterns.jpg?rlkey=zmwnfxu8ygqtdbqfkft648b9z&dl=0"
     },
     {
       "year": "2013",
       "name": "Tim Hecker",
       "title": "Virgins",
       "category": "Album",
-      "link": "https://timhecker.bandcamp.com/album/virgins-2"
+      "link": "https://timhecker.bandcamp.com/album/virgins-2",
+      "description": "Album from Tim Hecker",
+      "image": "https://www.dropbox.com/scl/fi/sonags9gm1esm1xiw72n2/2013_timHecker_virgins.jpg?rlkey=6dpwyx6u5yp1zf0pcli6y0nju&dl=0"
     },
     {
       "year": "2013",
       "name": "Chris Hall",
       "title": "Eternity Or Bust - A Short Film About Laraaji",
       "category": "Film",
-      "link": "https://www.youtube.com/watch?v=NfnVoJ2Jt74"
+      "link": "https://www.youtube.com/watch?v=NfnVoJ2Jt74",
+      "description": "A film about Laraaji.",
+      "image": "https://www.dropbox.com/scl/fi/9aejxekgd9atvzvzkz704/2013_chrisHall_eternityOrBust.png?rlkey=p79gr8i68flhh75jpid2100da&dl=0"
     },
     {
       "year": "2013",
       "name": "Laughter Workshop",
       "title": " Laraaji with Daniel Blumberg ",
       "category": "Interview",
-      "link": "https://www.youtube.com/watch?v=XzktEXmKYCY"
+      "link": "https://www.youtube.com/watch?v=XzktEXmKYCY",
+      "description": "Laugter workshop with Laraaji.",
+      "image": "https://www.dropbox.com/scl/fi/7kkqqzcjfbhjtytb92m4q/2013_laughterWorkshop_laraajiAndDanielBlumberg.png?rlkey=msb2usv9d97uoiiv0m44ie95w&dl=0"
     },
     {
       "year": "2013",
@@ -336,56 +411,71 @@
       "title": "Templar",
       "category": "Performance",
       "link": "https://youtu.be/Pl-otdM6OHc?si=gwlO2iZUQMn6DGzR",
-      "description": "From the album Perhaps (2013). Recorded live December 8, 2006 at a memorial event for James Tenney at California Institute of the Arts."
+      "description": "From the album Perhaps (2013). Recorded live December 8, 2006 at a memorial event for James Tenney at California Institute of the Arts.",
+      "image": "https://www.dropbox.com/scl/fi/1pnigp0tkpt9gzooqzsvh/2013_haroldBudd_templar.jpg?rlkey=enojpzlxjctsbrslq3cnx81u2&dl=0"
     },
     {
       "year": "2012",
       "name": "Lee Gamble",
       "title": "Diversions 1994​-​1996",
       "category": "Album",
-      "link": "https://leegamble.bandcamp.com/album/models"
+      "link": "https://leegamble.bandcamp.com/album/models",
+      "description": "Album from Lee Gamble",
+      "image": "https://www.dropbox.com/scl/fi/2qoqfzetaqyge4j0rw9kh/2012_leeGamble_diversions.jpg?rlkey=qovw4x2hrwg1ogrjlexpq1g0l&dl=0"
     },
     {
       "year": "2012",
       "name": "Wolfgang Voigt",
       "title": "R​ü​ckverzauberung 6",
       "category": "Album",
-      "link": "https://wolfgangvoigt.bandcamp.com/album/r-ckverzauberung-6"
+      "link": "https://wolfgangvoigt.bandcamp.com/album/r-ckverzauberung-6",
+      "description": "Album from Wolfgang Voigt",
+      "image": "https://www.dropbox.com/scl/fi/jqyf7r2mozwscta9p8u6f/2012_wolfgangVoigt_R-ckverzauberung-6.jpg?rlkey=hhnv1fewo5qe5yx2d3j0w2wdf&dl=0"
     },
     {
       "year": "2011",
       "name": "Tim Hecker",
       "title": "Ravedeath 1972",
       "category": "Album",
-      "link": "https://timhecker.bandcamp.com/album/ravedeath-1972"
+      "link": "https://timhecker.bandcamp.com/album/ravedeath-1972",
+      "description": "Album from Tim Hecker",
+      "image": "https://www.dropbox.com/scl/fi/y2crxwnlbbdy88hwmou0d/2011_timHecker_ravedeath72.jpg?rlkey=8x2yzz1j6szdsvsc447i1mnie&dl=0"
     },
     {
       "year": "2011",
       "name": "Oneohtrix Point Never",
       "title": "Replica",
       "category": "Album",
-      "link": "https://oneohtrixpointnever.bandcamp.com/album/replica"
+      "link": "https://oneohtrixpointnever.bandcamp.com/album/replica",
+      "description": "Album from Oneohtrix Point Never",
+      "image": "https://www.dropbox.com/scl/fi/rduet4j5xvqdmj9zz0qk1/2011_oneohtrixPointNever_replica.jpg?rlkey=js99anugog26v34bj0k7a61bf&dl=0"
     },
     {
       "year": "2011",
       "name": "The Caretaker",
       "title": "An Empty Bliss Beyond This World",
       "category": "Album",
-      "link": "https://thecaretaker.bandcamp.com/album/an-empty-bliss-beyond-this-world"
+      "link": "https://thecaretaker.bandcamp.com/album/an-empty-bliss-beyond-this-world",
+      "description": "Album from The Caretaker",
+      "image": "https://www.dropbox.com/scl/fi/njp6eh51we62t3kl4630i/2011_theCartaker_anEmptyBlissBeyondThisWorld.jpg?rlkey=vcuvrkrzhzdw9tac856asx45g&dl=0"
     },
     {
       "year": "2011",
       "name": "Julianna Barwick",
       "title": "The Magic Place",
       "category": "Album",
-      "link": "https://juliannabarwick.bandcamp.com/album/the-magic-place"
+      "link": "https://juliannabarwick.bandcamp.com/album/the-magic-place",
+      "description": "Album from Juliana Barwick",
+      "image": "https://www.dropbox.com/scl/fi/ur2qtauh2t58g562lju64/2011_juliannaBarwick_theMagicPlace.jpg?rlkey=n1b6vz6aeqkcgewuc9t96vetm&dl=0"
     },
     {
       "year": "2011",
       "name": "Grouper",
       "title": "A I A: Alien Observer",
       "category": "Album",
-      "link": "https://grouper.bandcamp.com/album/a-i-a-alien-observer"
+      "link": "https://grouper.bandcamp.com/album/a-i-a-alien-observer",
+      "description": "Album from Grouper",
+      "image": "https://www.dropbox.com/scl/fi/3jaz5xle0dn8flx25mcb5/2011_grouper_aia_alienObserver.jpg?rlkey=swpzvc26rrs6pb0eirtz3cr4f&dl=0"
     },
     {
       "year": "2011",
@@ -393,28 +483,44 @@
       "title": "Higher Intelligence Agency - Secret Thirteen Mix 121",
       "category": "Mix",
       "link": "https://www.mixcloud.com/secretthirteen/higher-intelligence-agency-secret-thirteen-mix-121/",
-      "description": "Old-fashioned and relaxing mix by Higher Intelligence Agency, which connects even confronting souls."
+      "description": "Old-fashioned and relaxing mix by Higher Intelligence Agency, which connects even confronting souls.",
+      "image": "https://www.dropbox.com/scl/fi/xmsy76bfz49m1yedph78g/2011_higherIntelligenceAgency.jpg?rlkey=oj5oyf5rnvlbtco0bu4oqglls&dl=0"
     },
     {
       "year": "2010",
       "name": "Ruedi Gerber",
       "title": "Breath Made Beautiful",
       "category": "Film",
-      "link": "https://vimeo.com/277160978"
+      "link": "https://vimeo.com/277160978",
+      "description": "Zas Films",
+      "image": "https://www.dropbox.com/scl/fi/fq7r14wje6zfaivpyfx8c/2010_ruediGerber_breathMadeBeautiful.png?rlkey=4lwfcgujivgin8jmvj4zvxdb7&dl=0"
     },
     {
       "year": "2009",
       "name": "Oneohtrix Point Never",
       "title": "Rifts",
       "category": "Album",
-      "link": "https://oneohtrixpointnever.bandcamp.com/album/rifts"
+      "link": "https://oneohtrixpointnever.bandcamp.com/album/rifts",
+      "description": "Album from Oneohtrix Point Never",
+      "image": "https://www.dropbox.com/scl/fi/4njrt3bywy35aqc262jp6/2009_oneohtrixPointNever_rifts.jpg?rlkey=8vkhvxzt1e3pmvwhsk56peff5&dl=0"
+    },
+    {
+      "year": "2008",
+      "name": "Stéphane Douady",
+      "title": "The song of the dunes",
+      "category": "Film",
+      "link": "https://www.youtube.com/watch?v=4yFaMsUawi4",
+      "description": "The song of the dunes introduced by Stéphane Douady. Since Marco Polo this strange sounds that can be heard in some deserts fanscinates. ",
+      "image": "https://www.dropbox.com/scl/fi/kumdelb52vk1xkxmlmln8/2008_stephane.png?rlkey=6x32m70nqr0ghils10rowtfto&dl=0"
     },
     {
       "year": "2006",
       "name": "Tim Hecker",
       "title": "Harmony in Ultraviolet",
       "category": "Album",
-      "link": "https://timhecker.bandcamp.com/album/harmony-in-ultraviolet"
+      "link": "https://timhecker.bandcamp.com/album/harmony-in-ultraviolet",
+      "description": "Album by Tim Hecker",
+      "image": "https://www.dropbox.com/scl/fi/uylujzrxc1gxjhq4f19tn/2006_timHecker_harmonyInUltralight.jpg?rlkey=79fwnhxbkftt1rfmcsjl4plpc&dl=0"
     },
     {
       "year": "2006",
@@ -422,49 +528,80 @@
       "title": "4'33\" by David Tudor",
       "category": "Performance",
       "link": "John Cage - 4'33\" by David Tudor - YouTube",
-      "description": "David Tudor performs John Cage's 4'33 piece on silence."
+      "description": "David Tudor performs John Cage's 4'33 piece on silence.",
+      "image": "https://www.dropbox.com/scl/fi/uylujzrxc1gxjhq4f19tn/2006_timHecker_harmonyInUltralight.jpg?rlkey=79fwnhxbkftt1rfmcsjl4plpc&dl=0"
     },
     {
       "year": "2005",
       "name": "Eluvium",
       "title": "Talk Amongst the Trees",
       "category": "Album",
-      "link": "https://eluvium.bandcamp.com/album/talk-amongst-the-trees"
+      "link": "https://eluvium.bandcamp.com/album/talk-amongst-the-trees",
+      "description": "Album by Eluvium",
+      "image": "https://www.dropbox.com/scl/fi/bqjkc4kwbwcqn4sl137cd/2005_eluvium_talkAmongstThetrees.jpg?rlkey=uwh7gbyt7f2pq3yi966zwhfk3&dl=0"
+    },
+    {
+      "year": "2005",
+      "name": "Tetsu Inoue",
+      "title": "Yolo",
+      "category": "Album",
+      "link": "https://din.org.uk/album/yolo-din22",
+      "description": "Tetsu Inoue's ninth solo album, \"Yolo\"",
+      "image": "https://www.dropbox.com/scl/fi/l7ic5vwifdnbxi9d4zpds/2005_yolo.jpeg?rlkey=bed34tyo91741866j0ui83h23&dl=0"
+    },
+    {
+      "year": "2004",
+      "name": "La Monte Young & Marian Zazeela",
+      "title": "Selected Writings",
+      "category": "Publication",
+      "link": "https://www.ubuweb.com/historical/young/young_selected.pdf",
+      "description": "Selected writings from La Monte Young and Marian Zazeela",
+      "image": "https://www.dropbox.com/scl/fi/x6bp381td68a2i6bwqlgv/2004_lamonteyoung.png?rlkey=yq20uvhq22skmsk10ujua8fsr&dl=0"
     },
     {
       "year": "2002",
       "name": "Keith Fullerton Whitman",
       "title": "Playthroughs",
       "category": "Album",
-      "link": "https://keithfullertonwhitman.bandcamp.com/album/playthroughs"
+      "link": "https://keithfullertonwhitman.bandcamp.com/album/playthroughs",
+      "description": "Album by Keith Fullerton Whitman",
+      "image": "https://www.dropbox.com/scl/fi/hmhl10duvq36tz2vajsi3/2002_keithFullertonWhitman_playthroughs.jpg?rlkey=306t888eejie9dc2w189llpka&dl=0"
     },
     {
       "year": "2002",
       "name": "Drexciya",
       "title": "Drexia Interview",
       "category": "Interview",
-      "link": "https://www.youtube.com/watch?v=C-LoZho4HC8"
+      "link": "https://www.youtube.com/watch?v=C-LoZho4HC8",
+      "description": "Interview with Drexia",
+      "image": "https://www.dropbox.com/scl/fi/vaq8dptzss4v0m6akbiqn/2002_drexiya_interview.png?rlkey=110hyi7kzy0nu30o5dychdfva&dl=0"
     },
     {
       "year": "2002",
       "name": "Ekkehard Ehlers",
       "title": "Plays",
       "category": "Album",
-      "link": "https://ekkehardehlers.bandcamp.com/album/ekkehard-ehlers-plays"
+      "link": "https://ekkehardehlers.bandcamp.com/album/ekkehard-ehlers-plays",
+      "description": "Album from Ekkehard Ehlers",
+      "image": "https://www.dropbox.com/scl/fi/sfrecx5tbt60x9khtck4a/2002_ekkeh.jpeg?rlkey=n14osv7bz1wddgtw3etiiadd5&dl=0"
     },
     {
       "year": "2001",
       "name": "William Basinski",
       "title": "d|p 1.1",
       "category": "Album, Performance",
-      "link": "https://www.youtube.com/watch?v=qYOr8TlnqsY"
+      "link": "https://www.youtube.com/watch?v=qYOr8TlnqsY",
+      "description": "Performance from William Basinski",
+      "image": "https://www.dropbox.com/scl/fi/7qly4inecexsn4i0hcszc/2001_williamBasinski_d-p1.1.jpg?rlkey=wvl6lk2ohkfh0xy6fbukryaui&dl=0"
     },
     {
       "year": "2001",
       "name": "Fennesz",
       "title": "Endless Summer",
       "category": "Album",
-      "link": "https://fenneszemego.bandcamp.com/album/endless-summer"
+      "link": "https://fenneszemego.bandcamp.com/album/endless-summer",
+      "description": "Album from Fennesz",
+      "image": "https://www.dropbox.com/scl/fi/bkytk7hc6fcjqpty7m8mm/2001_Fennesz_endlessSummer.jpg?rlkey=4y5wwvpd7lbn4vj9875whrzxz&dl=0"
     },
     {
       "year": "2001",
@@ -472,14 +609,17 @@
       "title": "The BBC Sessions 1989-2001",
       "category": "Compilation",
       "link": "https://www.youtube.com/watch?v=1Tfl6Aw42Zw",
-      "description": "The Orb - The BBC Sessions 1989-2001 (Full Compilation)"
+      "description": "The Orb - The BBC Sessions 1989-2001 (Full Compilation)",
+      "image": "https://www.dropbox.com/scl/fi/k338ric0c3thl2hsaf1pa/2001_theOrb_bbcSessions.png?rlkey=8ex61jh83ypzg4xwzd9gwft7g&dl=0"
     },
     {
       "year": "2000",
       "name": "GAS",
       "title": "Pop",
       "category": "album",
-      "link": "https://kompakt-gas.bandcamp.com/album/pop"
+      "link": "https://kompakt-gas.bandcamp.com/album/pop",
+      "description": "Album from GAS",
+      "image": "https://www.dropbox.com/scl/fi/h95vtg6uvv7ldhnvgdefp/2000_gas.jpeg?rlkey=814hvco1quk5zkzwzlpigdezv&dl=0"
     },
     {
       "year": "2000",
@@ -487,14 +627,17 @@
       "title": "The Story Of '4'33\"'",
       "category": "Essay",
       "link": "https://www.npr.org/2000/05/08/1073885/4-33",
-      "description": "Essay on John Cage's piece 4'33."
+      "description": "Essay on John Cage's piece 4'33.",
+      "image": "https://www.dropbox.com/scl/fi/23aytul9yddojjps6nnnf/2000_cage.webp?rlkey=7dlow0126tdyxxw0u8lousdfi&dl=0"
     },
     {
       "year": "1999",
       "name": "Lamonte Young",
       "title": "The Tamburas of Pandit Pran Nath",
       "category": "Album",
-      "link": "https://lamonteyoung.bandcamp.com/album/the-tamburas-of-pandit-pran-nath"
+      "link": "https://lamonteyoung.bandcamp.com/album/the-tamburas-of-pandit-pran-nath",
+      "description": "Album from Lamonte Young",
+      "image": "https://www.dropbox.com/scl/fi/5hpjewzfr4s1wx89xmmif/1999_lamonteYoung_tamburasOfPan.jpg?rlkey=y4w8rywlthq510mhqvju6eu08&dl=0"
     },
     {
       "year": "1999",
@@ -502,35 +645,44 @@
       "title": "The Aeolian Interface Project",
       "category": "Art",
       "link": "http://ascentstage.com/aeolian/images.html",
-      "description": "Research with the initial vision was to control digital instruments through gestures, much like a conductor, leading to the idea of creating a MIDI version of the Æolian harp—a wind-activated instrument. This concept sought to bridge nature and technology, echoing Heidegger's views on technology as a mode of revealing, allowing the wind's inherent patterns to become audibly evident. However, technical limitations prevented precise detection of the harp strings' vibrations by wind, resulting in a redesigned installation that combined elements of sculpture, wind vane, wind chime, and equipment rack to capture wind patterns."
+      "description": "Research with the initial vision was to control digital instruments through gestures, much like a conductor, leading to the idea of creating a MIDI version of the Æolian harp—a wind-activated instrument. This concept sought to bridge nature and technology, echoing Heidegger's views on technology as a mode of revealing, allowing the wind's inherent patterns to become audibly evident. However, technical limitations prevented precise detection of the harp strings' vibrations by wind, resulting in a redesigned installation that combined elements of sculpture, wind vane, wind chime, and equipment rack to capture wind patterns.",
+      "image": "https://www.dropbox.com/scl/fi/eq7zcrpx9pbj7u7fe18vr/1999_aeolian.jpeg?rlkey=2wtxdappq34nc772l787cih5n&dl=0"
     },
     {
       "year": "1998",
       "name": "Windy & Carl",
       "title": "Depths",
       "category": "Album",
-      "link": "https://windyandcarl.bandcamp.com/album/depths"
+      "link": "https://windyandcarl.bandcamp.com/album/depths",
+      "description": "Album from Windy & Carl",
+      "image": "https://www.dropbox.com/scl/fi/1ssmnyqqjn7jbeijfbdb2/1998_windy.jpeg?rlkey=5193vdcd0fih4fgq9l9a2oaxr&dl=0"
     },
     {
       "year": "1998",
       "name": "Robert Fripp",
       "title": "A Language of Being",
       "category": "Essay",
-      "link": "http://entersection.com/posts/1074-robert-fripp-on-music-as-a-language-of-being"
+      "link": "http://entersection.com/posts/1074-robert-fripp-on-music-as-a-language-of-being",
+      "description": "Essay from Robert Frip",
+      "image": "https://www.dropbox.com/scl/fi/zsim8tiyfv5b4t1c1krqh/1998_robertFripp_aLanguageOfBeing.jpg?rlkey=rkhx42lkulj5yilypw5xftbss&dl=0"
     },
     {
       "year": "1997",
       "name": "Oval",
       "title": "94diskont",
       "category": "Album",
-      "link": "https://oval.bandcamp.com/album/94diskont-remastered-2013-reissue"
+      "link": "https://oval.bandcamp.com/album/94diskont-remastered-2013-reissue",
+      "description": "Album from Oval",
+      "image": "https://www.dropbox.com/scl/fi/7c7br6vlhvkpfafrmtgsz/1997_oval_94diskount.jpg?rlkey=01kqw5aa8ydcqg7plnd92mx7p&dl=0"
     },
     {
       "year": "1997",
       "name": "Biosphere",
       "title": "Substrata",
       "category": "Album",
-      "link": "https://biosphere.bandcamp.com/album/substrata"
+      "link": "https://biosphere.bandcamp.com/album/substrata",
+      "description": "Album from Biosphere",
+      "image": "https://www.dropbox.com/scl/fi/6oofpyy5lhkiiovyoon34/1997_bioshere_substrata.jpg?rlkey=uge95v6njay5v1rcj4mu6tpkc&dl=0"
     },
     {
       "year": "1996",
@@ -538,14 +690,35 @@
       "title": "Yoshihiro Kawasaki",
       "category": "Interview",
       "link": "https://park.org/Japan/Theme/sjapan/interview/kawasaki/profile/kawa_pro.html",
-      "description": "Interview with Yoshihiro Kawasaki, Japanese sound artist and composer."
+      "description": "Interview with Yoshihiro Kawasaki, Japanese sound artist and composer.",
+      "image": "https://www.dropbox.com/scl/fi/07hajuvt858wojb0md9x5/1996_yoshihiro.jpeg?rlkey=vmch1b9v7q9husqmrqta36wmy&dl=0"
+    },
+    {
+      "year": "1996",
+      "name": " Tetsu Inoue",
+      "title": "World Receiver",
+      "category": "Album",
+      "link": "https://infraction.bandcamp.com/album/world-receiver",
+      "description": "Ambient album",
+      "image": "https://www.dropbox.com/scl/fi/q9fwz9zeaghu5secvvmyj/1996_tetsu.jpeg?rlkey=n9igpodtqxwtb7t3jielpjv6q&dl=0"
     },
     {
       "year": "1995",
       "name": "The Orb",
       "title": "Orbus Terrarum",
       "category": "Album",
-      "link": "http://www.ambientexotica.com/ambrev084_theorb_ot/"
+      "link": "http://www.ambientexotica.com/ambrev084_theorb_ot/",
+      "description": "Album from The Orb",
+      "image": "https://www.dropbox.com/scl/fi/l85ad5gnhiof4m8pakklz/1995_theOrb_OrbusTerrarum.png?rlkey=xy23s2yk1ymd790pizqdrp77m&dl=0"
+    },
+    {
+      "year": "1995",
+      "name": "The Black Dog",
+      "title": "Spanners",
+      "category": "Album",
+      "link": "https://www.youtube.com/watch?v=Czqr-uCAD3I",
+      "description": "Warp Records",
+      "image": "https://www.dropbox.com/scl/fi/147y5qvcksrjtxvdwiobm/1995_theblackdog.jpg?rlkey=a73sn32o3wvvweidn6q2pb50d&dl=0"
     },
     {
       "year": "1994",
@@ -553,7 +726,8 @@
       "title": "Mass Observation",
       "category": "Song",
       "link": "https://scanner.bandcamp.com/album/mass-observation-expanded",
-      "description": "Four tracks, only two of which incorporate snippets of cordless chatter (the other two are fast breakbeat-type techno). Rimbaud is at his best on the sparwling first track, where the voices accentuate his own contributions rather than the other way around."
+      "description": "Four tracks, only two of which incorporate snippets of cordless chatter (the other two are fast breakbeat-type techno). Rimbaud is at his best on the sparwling first track, where the voices accentuate his own contributions rather than the other way around.",
+      "image": "https://www.dropbox.com/scl/fi/y0431j4ian0ew1ff201gp/1994_scannerMassObservation.jpg?rlkey=mjykn2433helbdca9t1jzt0nn&dl=0"
     },
     {
       "year": "1994",
@@ -561,7 +735,8 @@
       "title": "Ambient 4: Isolationism",
       "category": "Compolation",
       "link": "https://www.youtube.com/watch?v=PG3expsvVnI",
-      "description": "Ambient 4: Isolationism (compilation) 1994 Virgin Records"
+      "description": "Ambient 4: Isolationism (compilation) 1994 Virgin Records",
+      "image": "https://www.dropbox.com/scl/fi/svj2mlk3ip5vw29fp9mgk/1994_ambient4.jpg?rlkey=asw7e0uo5hdc2yuwo8vsh6yzb&dl=0"
     },
     {
       "year": "1994",
@@ -569,7 +744,8 @@
       "title": "Dead Skin Cells",
       "category": "Song",
       "link": "https://www.youtube.com/watch?v=M0a1Vvgfiu8",
-      "description": "Release Date: 1994.\nLabel: Virgin Records.\nGenre: Ambient/Chillout."
+      "description": "Release Date: 1994.\nLabel: Virgin Records.\nGenre: Ambient/Chillout.",
+      "image": "https://www.dropbox.com/scl/fi/3573rmqixhniu577ua8c3/1994_thFutureSoundOfLondon.png?rlkey=16dgtzkhjggjp402z7gf5r4e7&dl=0"
     },
     {
       "year": "1994",
@@ -577,21 +753,35 @@
       "title": "Ambient Soundscape 12: The Place Closest to the Stars - St. GIGA Sound of the Earth",
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=i2mC0prsNoE",
-      "description": "\"St. GIGA Sound of the Earth Series\"\n\"Ambient Soundscape 12: The Place Closest to the Stars\""
+      "description": "\"St. GIGA Sound of the Earth Series\"\n\"Ambient Soundscape 12: The Place Closest to the Stars\"",
+      "image": "https://www.dropbox.com/scl/fi/tf4z03lwnj85n7hbf9rso/1994_stgiga.jpeg?rlkey=hntnbxntc0tk0mudbg56n1n2z&dl=0"
+    },
+    {
+      "year": "1994",
+      "name": "Oval",
+      "title": "Systemisch",
+      "category": "Album",
+      "link": "https://www.youtube.com/watch?v=Qk59nz_RfjA",
+      "description": "Full ambient album",
+      "image": "https://www.dropbox.com/scl/fi/macjuybggyq8hues5u8b8/1994_oval.jpeg?rlkey=mfe1lmghqo2ti8rr0o5dlbo7y&dl=0"
     },
     {
       "year": "1993",
       "name": "Takashi Kokubo",
       "title": "Oasis Of The Wind II ～ A Story Of Forest And Water",
       "category": "Album",
-      "link": "https://www.youtube.com/watch?v=rWEI9y6PElo"
+      "link": "https://www.youtube.com/watch?v=rWEI9y6PElo",
+      "description": "Album from Takashi Kokubo",
+      "image": "https://www.dropbox.com/scl/fi/n6sagmc55cyx79hb4xvl4/1993_takashiKokubo_Oasis.jpg?rlkey=mb9x1c466kxpxm9pealtmmg2h&dl=0"
     },
     {
       "year": "1993",
       "name": "Brian Eno",
       "title": "Neroli (Thinking Music Part IV)",
       "category": "Album",
-      "link": "https://brianenoallsaints.bandcamp.com/album/neroli-thinking-music-part-iv-expanded-edition"
+      "link": "https://brianenoallsaints.bandcamp.com/album/neroli-thinking-music-part-iv-expanded-edition",
+      "description": "Album from Brian Eno",
+      "image": "https://www.dropbox.com/scl/fi/91c0zp6lptziadtwi8ppi/1993_brianEno_neroli.jpg?rlkey=bhohjrxt3wmnnpi8r27jjygw0&dl=0"
     },
     {
       "year": "1993",
@@ -599,7 +789,8 @@
       "title": "Electro-Soma",
       "category": "Album",
       "link": "https://warprecords.bandcamp.com/album/electro-soma",
-      "description": "Electro-Soma is the debut studio album by British electronic music duo B12. It was released on Warp on 29 March 1993 and is the fourth release in Warp's Artificial Intelligence series."
+      "description": "Electro-Soma is the debut studio album by British electronic music duo B12. It was released on Warp on 29 March 1993 and is the fourth release in Warp's Artificial Intelligence series.",
+      "image": "https://www.dropbox.com/scl/fi/y4nxjv5ifpk4besb1r3nl/1993_B12.jpg?rlkey=xt7xrq3h0f0tdt5h4r55wonka&dl=0"
     },
     {
       "year": "1993",
@@ -607,14 +798,17 @@
       "title": "Louis Sarno",
       "category": "Book",
       "link": "https://archive.org/details/songfromforestmy00sarn_1",
-      "description": "Drawn to the heart of Africa by a song, Sarno began his journey with little more than a one-way ticket, some recording equipment, and a native notion about Pygmy life."
+      "description": "Drawn to the heart of Africa by a song, Sarno began his journey with little more than a one-way ticket, some recording equipment, and a native notion about Pygmy life.",
+      "image": "https://www.dropbox.com/scl/fi/ugd602hdo81x9jt153a9x/1992_songs.jpeg?rlkey=ez7wg0p9sjaxi61nb4wyifw82&dl=0"
     },
     {
       "year": "1992",
       "name": "Aphex Twin",
       "title": "Aphex Twin - Selected Ambient Works 85-92",
       "category": "Album",
-      "link": "https://www.youtube.com/watch?v=Xw5AiRVqfqk"
+      "link": "https://www.youtube.com/watch?v=Xw5AiRVqfqk",
+      "description": "Album from Aphex twin",
+      "image": "https://www.dropbox.com/scl/fi/yz88nttr074yhf9e1aik6/1992_aphexTwin_selectedAmbientWorks.jpg?rlkey=a04aq7chctrw0szr3ashcnck4&dl=0"
     },
     {
       "year": "1992",
@@ -622,7 +816,8 @@
       "title": "THE FUTURE WILL BE LIKE PERFUME",
       "category": "Essay",
       "link": "http://www.moredarkthanshark.org/feature_opal_info_22-1992.html#PERFUME",
-      "description": "Eno recounts a deep fascination with the elusive world of scent, beginning from art college days to discovering ancient aromatic substances in old pharmacies. Despite attempts at concocting unique fragrances and understanding their intricacies, they find that the realm of smell lacks a definitive language for precise description, much like the challenges in describing modern sound in classical musical terms. This exploration of scent parallels their experiences in sound recording, highlighting the complexities and mysteries of both worlds."
+      "description": "Eno recounts a deep fascination with the elusive world of scent, beginning from art college days to discovering ancient aromatic substances in old pharmacies. Despite attempts at concocting unique fragrances and understanding their intricacies, they find that the realm of smell lacks a definitive language for precise description, much like the challenges in describing modern sound in classical musical terms. This exploration of scent parallels their experiences in sound recording, highlighting the complexities and mysteries of both worlds.",
+      "image": "https://www.dropbox.com/scl/fi/fqjs2h62jnhqe29dhtafo/1992_brianEno_theFutureWillBeLikePerfume.jpg?rlkey=9m7wf67an6n6ulybzlsm11ilx&dl=0"
     },
     {
       "year": "1992",
@@ -630,7 +825,8 @@
       "title": "Perfume, Defence and David Bowie's Wedding",
       "category": "Lecture",
       "link": "https://www.youtube.com/watch?v=eobYZ6Pd8dY",
-      "description": "This audience audio recording of Eno's famous 1992 lecture."
+      "description": "This audience audio recording of Eno's famous 1992 lecture.",
+      "image": "https://www.dropbox.com/scl/fi/tge8a8vtbpsukls47qpm5/1992_brianEno_perfumeDefence_Bowie.png?rlkey=l8rw2n23o93qhno2ppshnnrxc&dl=0"
     },
     {
       "year": "1992",
@@ -638,7 +834,8 @@
       "title": "Barcelona  Gaudi’s Dream ",
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=acJ6qw0k6FA",
-      "description": "Takashi Kokubo (小久保隆) released ten albums over the course of 1992-93 in what is called the \"Ion Series\". These ten albums were released in two five-album sub-series, one in 1992 and one in 1993. The first sub-series, released in 1992, is titled 「都市生活者へ送る音風景」 or \"Sound Scenery for City People\". This album is part three of the first sub-series, making it the third album in the Ion Series."
+      "description": "Takashi Kokubo (小久保隆) released ten albums over the course of 1992-93 in what is called the \"Ion Series\". These ten albums were released in two five-album sub-series, one in 1992 and one in 1993. The first sub-series, released in 1992, is titled 「都市生活者へ送る音風景」 or \"Sound Scenery for City People\". This album is part three of the first sub-series, making it the third album in the Ion Series.",
+      "image": "https://www.dropbox.com/scl/fi/sx7xp54em6aa72xsrdhzz/1992_takashiKokubo_Barcelona.png?rlkey=u19jb8l2l40pkvit8u204ut9f&dl=0"
     },
     {
       "year": "1992",
@@ -646,7 +843,8 @@
       "title": "Rave Flyers and Posters",
       "category": "Archive",
       "link": "http://www.ravepreservationproject.com/",
-      "description": "As the years go by, old rave flyers and rave posters are lost, damaged, thrown away, and recycled. This project is to ensure rave flyers and rave posters are curated and stored in a healthy environment."
+      "description": "As the years go by, old rave flyers and rave posters are lost, damaged, thrown away, and recycled. This project is to ensure rave flyers and rave posters are curated and stored in a healthy environment.",
+      "image": "https://www.dropbox.com/scl/fi/7y31yuqpijjrtagy5ifdj/1992_raveFlyersandPosters.png?rlkey=ar5jaxkr1klvwe7egjg66xqtc&dl=0"
     },
     {
       "year": "1992",
@@ -654,7 +852,8 @@
       "title": "Evolution",
       "category": "Song",
       "link": "https://www.youtube.com/watch?v=33Xp3qFRa7A",
-      "description": "Evolution - Apollo Records (Division of R&S) 1992"
+      "description": "Evolution - Apollo Records (Division of R&S) 1992",
+      "image": "https://www.dropbox.com/scl/fi/9zot5f5owf3y4rggmyf65/1992_davidMorley.jpeg?rlkey=b9wn5if86fxuao466we3937ze&dl=0"
     },
     {
       "year": "1991",
@@ -662,7 +861,8 @@
       "title": "Microgravity",
       "category": "Album",
       "link": "https://biosphere.bandcamp.com/album/microgravity-reissue-with-bonus-album",
-      "description": "Microgravity is the debut studio album by Norwegian electronic musician Geir Jenssen under the stage name Biosphere, released in 1991. The album was at first rejected by SSR, the subsidiary of Nettwerk with whom Jenssen had previously released his music, as \"unmarketable\"."
+      "description": "Microgravity is the debut studio album by Norwegian electronic musician Geir Jenssen under the stage name Biosphere, released in 1991. The album was at first rejected by SSR, the subsidiary of Nettwerk with whom Jenssen had previously released his music, as \"unmarketable\".",
+      "image": "https://www.dropbox.com/scl/fi/sdf03q5b6dducx4q70rrn/1991_biosphere.jpg?rlkey=ha4ub8c9mrvo2umzff15cjj1y&dl=0"
     },
     {
       "year": "1991",
@@ -670,7 +870,8 @@
       "title": "St Giga Manual",
       "category": "Manual",
       "link": "https://archive.org/details/StGigaManual/mode/2up",
-      "description": "Manual for the St. Giga Audio Decoder ST-6164. This was used for a St. Giga Japanese satellite audio service. It was also used to connect to the Nintendo Super Famicom Satellaview service."
+      "description": "Manual for the St. Giga Audio Decoder ST-6164. This was used for a St. Giga Japanese satellite audio service. It was also used to connect to the Nintendo Super Famicom Satellaview service.",
+      "image": "https://www.dropbox.com/scl/fi/9a26ozzmfxrp8prgt6twv/1991_stgiga.jpeg?rlkey=0qxiv4mdojq1vdrkqu6chhh7i&dl=0"
     },
     {
       "year": "1991",
@@ -678,7 +879,8 @@
       "title": "屋久島 / 水の時 - Ambient Soundscape 2: WATER & FOREST",
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=ECWQAdFjqFg",
-      "description": "St.Giga, 90s satellite radio from Japan. \nThis is one of the field recording albums the company released."
+      "description": "St.Giga, 90s satellite radio from Japan. \nThis is one of the field recording albums the company released.",
+      "image": "https://www.dropbox.com/scl/fi/2nq7cp3vc1heb3hkhyokw/1990_stgiga.jpg?rlkey=m9066cplx2c6vtxoq48j6c03n&dl=0"
     },
     {
       "year": "1990",
@@ -686,7 +888,8 @@
       "title": "Space",
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=DVc6bltUL1I",
-      "description": "Ambient house album - UK 1990. Production - Jimmy Cauty."
+      "description": "Ambient house album - UK 1990. Production - Jimmy Cauty.",
+      "image": "https://www.dropbox.com/scl/fi/qyd6u4pyqonxj1u0hdmjs/1990_KlfSpace.jpg?rlkey=i6awoasmounht10vx4twhwray&dl=0"
     },
     {
       "year": "1990",
@@ -694,7 +897,8 @@
       "title": "Chill Out",
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=bWebqCRw7o4",
-      "description": "THE KLF - Chill Out ( Full Album )"
+      "description": "THE KLF - Chill Out ( Full Album )",
+      "image": "https://www.dropbox.com/scl/fi/i1o5a4hchoik0kfzaeh5d/1990_theKlfChillOut.jpg?rlkey=7na9lfrp5rnt04yfgasrt28wc&dl=0"
     },
     {
       "year": "1990",
@@ -702,7 +906,26 @@
       "title": "Telpathic Fish",
       "category": "Article",
       "link": "http://transpont.blogspot.com/2010/03/telepathic-fish.html",
-      "description": "Article on historic ambient club in London. "
+      "description": "Article on historic ambient club in London. ",
+      "image": "https://www.dropbox.com/scl/fi/rn7nkiybhgp6dik5au6e8/1990_telepathicFish.png?rlkey=iw1qbv26xf9e7kfj7vhb3u7ed&dl=0"
+    },
+    {
+      "year": "1990",
+      "name": "Detroit The Blueprint of Techno",
+      "title": "Detroit The Blueprint of Techno",
+      "category": "Film",
+      "link": "https://www.youtube.com/watch?v=SYSagw7v4dU",
+      "description": "This rare video from the late 1990s features Terrence Parker, Mike Huckaby, Juan Atkins, Ritchie Hawtin, Derrick May, Kevin Saunderson, Carl Craig, Rolando, Jeff Woodward, Gary Koral, Josh Glazer, Jon Ozias, Theorem, DJ Dunebugg, (with special cameo appearances by Mike Grant, Brian Bonds, Don Waxmaster D Smooth, Hugh C, and Todd Weston).",
+      "image": "https://www.dropbox.com/scl/fi/lu2eg9uibtznxbcvy4r4b/1990-detroit.png?rlkey=6nl4zdfc9nff6sxzgt4rpbto6&dl=0"
+    },
+    {
+      "year": "1990",
+      "name": "Jim Nollman",
+      "title": "Spiritual Ecology: A Guide to Reconnecting with Nature",
+      "category": "Book",
+      "link": "https://archive.org/details/spiritualecology00jimn/mode/2up",
+      "description": "Foundational book in ecology and sound.",
+      "image": "https://www.dropbox.com/scl/fi/y8kqcuypu9r7bcf0t4zny/1990-spiritual.png?rlkey=1oi2jih3wt41ilnkgi5zwykhd&dl=0"
     },
     {
       "year": "1988",
@@ -710,7 +933,8 @@
       "title": "Angel of Mercy",
       "category": "Song",
       "link": "https://www.youtube.com/watch?v=XIXkAx8TVTE",
-      "description": "Nu Groove classic from 1988 by Rheji Burrell"
+      "description": "Nu Groove classic from 1988 by Rheji Burrell",
+      "image": "https://www.dropbox.com/scl/fi/kzfwopu4ig2i019crtyso/1988_metroAngelofMercy.jpg?rlkey=75f00lf3hnamimukli4rfogba&dl=0"
     },
     {
       "year": "1988",
@@ -718,7 +942,17 @@
       "title": "Open Your Eyes",
       "category": "Song",
       "link": "https://www.youtube.com/watch?v=mgjHsQuHsHI",
-      "description": "Big Beat ‎– BB-0003 | 1988"
+      "description": "Big Beat ‎– BB-0003 | 1988",
+      "image": "https://www.dropbox.com/scl/fi/kkdlpjwthu1rqp661i5ks/1988_truthOpenYourEyes.jpg?rlkey=4v4z8y2owbnz7nr3nmkc3i65f&dl=0"
+    },
+    {
+      "year": "1988",
+      "name": "Steve Roach",
+      "title": "Dreamtime Return",
+      "category": "Album",
+      "link": "https://steveroach.bandcamp.com/album/dreamtime-return-30th-anniversary-remastered-edition",
+      "description": "1988 Steve Roach album. Roach’s travels in the Australian outback, along with studies of the Aboriginal Dreamtime, and his desert walkabouts in California were the lifeblood for this recording which even today sounds like a transmission from the near future and the very distant past.",
+      "image": "https://www.dropbox.com/scl/fi/5fnrk174ynpg6eag184lg/1988-steveroach.png?rlkey=m8rk3057fdrltidpxqqj1n7g5&dl=0"
     },
     {
       "year": "1987",
@@ -726,56 +960,80 @@
       "title": "The Sound",
       "category": "Song",
       "link": "https://www.youtube.com/watch?v=QiQFME5bym8",
-      "description": "Original Detroit House Classic"
+      "description": "Original Detroit House Classic",
+      "image": "https://www.dropbox.com/scl/fi/ggjrx3larier03nk4z0kp/1987_reeseAndSantionio_theSound.jpeg?rlkey=cbaskcpr21oo2o8q9ya271onn&dl=0"
+    },
+    {
+      "year": "1987",
+      "name": "La Monte Young",
+      "title": "The Well​-​Tuned Piano in the Magenta Lights “87 V 10 6​:​43​:​00 PM — 87 V 11 1​:​07​:​45 AM NYC",
+      "category": "Performance",
+      "link": "https://lamonteyoung.bandcamp.com/album/the-well-tuned-piano-in-the-magenta-lights-87-v-10-6-43-00-pm-87-v-11-1-07-45-am-nyc",
+      "description": "This 6-hour 25-minute continuous performance was recorded live in concert May 10, 1987 during the La Monte Young 30-Year Retrospective, Dia Art Foundation Performance Space, 155 Mercer Street, New York City.",
+      "image": "https://www.dropbox.com/scl/fi/pguza4nsdwq82u3i7cx7s/1987-lamounteyougn.png?rlkey=9qui51i6vi36xzvqj6x9qo4qp&dl=0"
     },
     {
       "year": "1986",
       "name": "Hiroshi Yoshimura",
       "title": "Surround",
       "category": "Album",
-      "link": "https://hiroshi-yoshimura.bandcamp.com/album/surround"
+      "link": "https://hiroshi-yoshimura.bandcamp.com/album/surround",
+      "description": "Originally released as an album in January 1986, Surround was recorded by Yoshimura as a commission from home builder Misawa Homes, intended to function as an “amenity” designed to enhance the company’s newly built living spaces.",
+      "image": "https://www.dropbox.com/scl/fi/qvaj64yc99l5uo4mnbla6/1986_hiroshiYoshimura_surround.jpg?rlkey=zoztwd082svq4z4h3wdw6ezwy&dl=0"
     },
     {
       "year": "1986",
       "name": "Laraaji",
       "title": "Laraaji: \"All of a Sudden\" live on Celestrana",
       "category": "Performance",
-      "link": "https://www.youtube.com/watch?v=-bdYHYnJI-E"
+      "link": "https://www.youtube.com/watch?v=-bdYHYnJI-E",
+      "description": "\"All of a Sudden\" live on Celestrana, 1986",
+      "image": "https://www.dropbox.com/scl/fi/mlnw0mmp4q14k8o9kmyr3/1986_laraaji_performance.png?rlkey=27vau6p3s4pwxhk6bp3ucxteo&dl=0"
     },
     {
       "year": "1984",
       "name": "Steve Roach",
       "title": "Structures from Silence",
       "category": "Album",
-      "link": "https://steveroach.bandcamp.com/album/structures-from-silence-30th-anniversary-3cd-remastered-edition"
+      "link": "https://steveroach.bandcamp.com/album/structures-from-silence-30th-anniversary-3cd-remastered-edition",
+      "description": "Released in 1984, Structures From Silence remains an iconic American release in the ambient and electronic genres. It’s a well-respected soundtrack for contemplation, relaxation, meditation, and focused creativity. The album continues to appear at the top of charts and is mentioned as one of the best releases in the genre; even more importantly, it is a meaningful touchstone for thousands upon thousands of listeners who have lived many years within its nurturing embrace. The album has endured, growing more potent over time, especially in the accelerated pace of today’s life. Emotional, powerful, and enriching, it is a living example of the true healing quality that music can hold.",
+      "image": "https://www.dropbox.com/scl/fi/ktsxvqqutrk8nefk125em/1984_steveRoach.jpg?rlkey=2yxb2t6eje2hcez526kuo4j62&dl=0"
     },
     {
       "year": "1984",
       "name": "Brian Eno & Harold Budd",
       "title": "The Pearl",
       "category": "Album",
-      "link": "https://www.npr.org/2020/12/10/944962303/harold-budds-music-was-heaven-on-earth"
+      "link": "https://www.youtube.com/playlist?list=PLfimnwaZdumgM7qHD0Xtk1QzVZv1JSql5",
+      "description": "Album from Brian Eno & Harold Budd",
+      "image": "https://www.dropbox.com/scl/fi/vidl89irlbjmpei93troq/1984_brianEnoHaroldBudd.webp?rlkey=xzj4m9m6pjj55v4rkqdd12vbv&dl=0"
     },
     {
       "year": "1983",
       "name": "Collusion Magazine",
       "title": "Issue #4",
       "category": "Magazine",
-      "link": "https://www.flickr.com/photos/stillunusual/7702473630/in/album-72157718914071207/"
+      "link": "https://www.flickr.com/photos/stillunusual/7702473630/in/album-72157718914071207/",
+      "description": "Magazine promoting subculture of the 1980's",
+      "image": "https://www.dropbox.com/scl/fi/3j5bt8gdmgtb2iinx1sp6/1983_collusionMag.jpg?rlkey=rdgrl3wrmq59duy9znkf81f1i&dl=0"
     },
     {
       "year": "1982",
       "name": "Alice Coltrane",
       "title": "Turiya Sings",
       "category": "Album",
-      "link": "https://www.alicecoltrane.com/turiya-sings-full"
+      "link": "https://www.alicecoltrane.com/turiya-sings-full",
+      "description": "Album by Alice Coltrane",
+      "image": "https://www.dropbox.com/scl/fi/vqr6gg57mvskbvx77n8lf/1982_TuriyaSings.jpg?rlkey=uhwkm37q2r7tt97d392kw603n&dl=0"
     },
     {
       "year": "1982",
       "name": "Pauline Oliveros",
       "title": "Accordian and Voice",
       "category": "Album",
-      "link": "https://imprec.bandcamp.com/album/accordion-voice"
+      "link": "https://imprec.bandcamp.com/album/accordion-voice",
+      "description": "Album by Pauline Oliveros",
+      "image": "https://www.dropbox.com/scl/fi/ryi8xg6s891o3gelydydz/1982_paulineOliveros.jpeg?rlkey=z5ioygm1rgw2qqm796lb0zp07&dl=0"
     },
     {
       "year": "1982",
@@ -783,7 +1041,8 @@
       "title": "Ambient 4: On Land",
       "category": "Album",
       "link": "https://www.moma.org/collection/works/183959",
-      "description": "Ambient 4: On Land is the eighth solo studio album by Brian Eno, released in March 1982 by EG Records. It was the final edition in Eno's ambient series, which began in 1978 with the release of Ambient 1: Music for Airports."
+      "description": "Ambient 4: On Land is the eighth solo studio album by Brian Eno, released in March 1982 by EG Records. It was the final edition in Eno's ambient series, which began in 1978 with the release of Ambient 1: Music for Airports.",
+      "image": "https://www.dropbox.com/scl/fi/1jl5cau98w6ku95i941cq/1982_brianEno_Ambient4.png?rlkey=ew8q4mknn9y1wuxq0ry4ya5cj&dl=0"
     },
     {
       "year": "1981",
@@ -791,28 +1050,35 @@
       "title": "My Life In A Hole In The Ground",
       "category": "Album",
       "link": "https://africanheadcharge.bandcamp.com/album/my-life-in-a-hole-in-the-ground",
-      "description": "The groundbreaking debut album from 1981 that plays on both the title and concept of David Byrne and Brian Eno's My Life in the Bush of Ghosts.\n\nBuilt upon sparse backing tracks constructed by Adrian Sherwood, the producer invited Bonjo Iyabinghi Noah (who had studied under Count Ossie in the rasta drumming camp at Wareika Hill in Jamaica) to lay down hand percussion patterns and breaks on top, augmented by stereo-strafed effects and the occasional burst of Sun Ra-style horns. The result is a unique mixture of traditional African rhythms, dub and free jazz.\n\nFeatures DJ favourite “Stebeni’s Theme” and “Far Away Chant”, used to famously gruesome effect by David Lynch in the film Wild At Heart.\ncredits"
+      "description": "The groundbreaking debut album from 1981 that plays on both the title and concept of David Byrne and Brian Eno's My Life in the Bush of Ghosts.\n\nBuilt upon sparse backing tracks constructed by Adrian Sherwood, the producer invited Bonjo Iyabinghi Noah (who had studied under Count Ossie in the rasta drumming camp at Wareika Hill in Jamaica) to lay down hand percussion patterns and breaks on top, augmented by stereo-strafed effects and the occasional burst of Sun Ra-style horns. The result is a unique mixture of traditional African rhythms, dub and free jazz.\n\nFeatures DJ favourite “Stebeni’s Theme” and “Far Away Chant”, used to famously gruesome effect by David Lynch in the film Wild At Heart.\ncredits",
+      "image": "https://www.dropbox.com/scl/fi/ejqggwo3o85ni94e6i545/1980-africa.png?rlkey=bgwj2p55xxyrq2dkdi9d92v96&dl=0"
     },
     {
       "year": "1980",
       "name": "Sun Ra",
       "title": "A Joyful Noise",
       "category": "Film",
-      "link": "https://www.youtube.com/watch?v=S2il7XTq8Es"
+      "link": "https://www.youtube.com/watch?v=S2il7XTq8Es",
+      "description": "Renowned documentary film director Robert Mugge decided to spend three years peering into the life of the colorful Sun Ra and his rowdy band mates. One reviewer wrote of the underappreciated and relatively unknown 1980 film, Sun Ra: A Joyful Noise, that it was not only “a performance film, but also as a record of the famous composer, keyboardist, bandleader’s purposely odd personal and professional life.”",
+      "image": "https://www.dropbox.com/scl/fi/41mgj8h2t7onvpad9fk5h/1980_sunRa_aJoyfulNoise.png?rlkey=mv1rwxpmz30nbr52zmp3b3cbr&dl=0"
     },
     {
       "year": "1980",
       "name": "Laurie Spiegel",
       "title": "The Expanding Universe",
       "category": "Album",
-      "link": "https://lauriespiegel.bandcamp.com/album/the-expanding-universe"
+      "link": "https://lauriespiegel.bandcamp.com/album/the-expanding-universe",
+      "description": "In 1977, electronic composer Laurie Spiegel's \"Kepler's Harmony of the Worlds\" traveled to the edge of the solar system as part of Voyager 1 and 2's \"Golden Record\".",
+      "image": "https://www.dropbox.com/scl/fi/fi3f0dyl8xaj4jbo5yr1k/1980_laurieSpiegel.jpg?rlkey=irmwo4v2gwyd2rdn80j7swe9n&dl=0"
     },
     {
       "year": "1980",
       "name": "Laraaji",
       "title": "Ambient 3: Day of Radiance",
       "category": "Album",
-      "link": "https://laraaji1.bandcamp.com/album/ambient-3-day-of-radiance"
+      "link": "https://laraaji1.bandcamp.com/album/ambient-3-day-of-radiance",
+      "description": "Laraaji’s glistening album “Ambient 3: Day of Radiance” has from the beginning been considered an outlier. Though widely celebrated at the time of its release in 1980 -- as the third installment of Brian Eno’s emerging ambient music series (Ambient 1-4) -- the album also brought with it an aura of mystification. Where did it fit in? An uncharted synthesis of resonating zither textures, interlocking, hammered rhythms and 3-D sound treatments (courtesy of Eno) “Day of Radiance” seemed to push open many doors at once, ambient music being only one of them.",
+      "image": "https://www.dropbox.com/scl/fi/lv4sdf1mg6syjjts7qqi4/1980_laraaji.jpg?rlkey=tuaebkm6lsp0om1o4sc55c5v4&dl=0"
     },
     {
       "year": "1980",
@@ -820,7 +1086,8 @@
       "title": "Improvisation",
       "category": "Book",
       "link": "https://fallazz.files.wordpress.com/2010/12/bailey-derek-improvisation-complete.pdf",
-      "description": "A book to deal with the nature of improvisation in all its forms--Indian music, flamenco, baroque, organ music, rock, jazz, contemporary, and \"free\" music"
+      "description": "A book to deal with the nature of improvisation in all its forms--Indian music, flamenco, baroque, organ music, rock, jazz, contemporary, and \"free\" music",
+      "image": "https://www.dropbox.com/scl/fi/w9evhdoqt8al1h8vou1tl/1980-bailey.png?rlkey=khcdlr9jw4ak744rsoc3wwy2z&dl=0"
     },
     {
       "year": "1980",
@@ -828,7 +1095,8 @@
       "title": "Sea of Tranquility ",
       "category": "Music Video",
       "link": "https://www.youtube.com/watch?v=8Hpp0Ixr88c&list=RDEMwizhHhN8RdOa47QVhPpQqA&start_radio=1",
-      "description": "Music video with footage paired from Assignment: Outerspace (1960)"
+      "description": "Music video with footage paired from Assignment: Outerspace (1960)",
+      "image": "https://www.dropbox.com/scl/fi/m3u0gr9c9c5mtmd9p2pe8/1980-sea.png?rlkey=h8b031dup8haqe2wvtfsf7g86&dl=0"
     },
     {
       "year": "1980",
@@ -836,14 +1104,17 @@
       "title": "Journey to the One",
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=R6_mNgcdgxc",
-      "description": "Journey to the One is a double album led by saxophonist Pharoah Sanders recorded in 1979 and released on the Theresa label."
+      "description": "Journey to the One is a double album led by saxophonist Pharoah Sanders recorded in 1979 and released on the Theresa label.",
+      "image": "https://www.dropbox.com/scl/fi/pkhay9yks5r2xs966cah4/1980-pharo.jpeg?rlkey=ukrfizi90qj5719nqwyttg7qk&dl=0"
     },
     {
       "year": "1979",
       "name": "Robert Ashley",
       "title": "Automatic Writing",
       "category": "Album",
-      "link": "https://robert-ashley.bandcamp.com/album/automatic-writing"
+      "link": "https://robert-ashley.bandcamp.com/album/automatic-writing",
+      "description": "\"On Automatic Writing, Robert Ashley composes under the influence of his 'involuntary speech.' (In his liner notes, Ashley revealed that he suffered from 'a mild form of Tourette's.') The piece starts quietly, with scraps of Ashley's mild, tremulous voice arranged next to more fluid French translations and barely-there touches of Moog. After Ashley's phrases lengthen enough to encompass sense-making phrases, a bass-register groove briefly appears, vanishes, then returns. Few pieces so quiet have proven as captivating; many that intend to be equally startling can't capture Ashley's range of surprises.” -- Seth Colter Walls, from Pitchfork's \"Fifty Best Ambient Albums of All Time\"",
+      "image": "https://www.dropbox.com/scl/fi/1uf4afr3som6q4ckc44a4/1979_robertAshley_automaticWriting.jpg?rlkey=keeufggu6kqy1k2gmzwv1vkt3&dl=0"
     },
     {
       "year": "1979",
@@ -851,14 +1122,17 @@
       "title": "Rainbow Dome Music",
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=09B2gn5OhKg",
-      "description": "Album from 1979 - Genre : Divine Ambient"
+      "description": "Album from 1979 - Genre : Divine Ambient",
+      "image": "https://www.dropbox.com/scl/fi/74kc9rinrdudyu4cgh58p/1979_steveHillageRainbowDomeMusick.png?rlkey=nq34np86470k06ftp7r6ajq1d&dl=0"
     },
     {
       "year": "1978",
       "name": "Brian Eno",
       "title": "Ambient Music",
       "category": "Essay",
-      "link": "https://audioweb.sitehost.iu.edu/T369/eno-ambient.pdf"
+      "link": "https://audioweb.sitehost.iu.edu/T369/eno-ambient.pdf",
+      "description": "Essay introducing the term ambient music.",
+      "image": "https://www.dropbox.com/scl/fi/pd5ei2l3i77xnlxsdzbvn/1978_brianEno_ambientMusic.png?rlkey=c6b44zeaxuj20kj2e77uv3hbn&dl=0"
     },
     {
       "year": "1978",
@@ -866,7 +1140,8 @@
       "title": "Doing the Best I Can (Walter Gibbons special mix) ",
       "category": "Song",
       "link": "https://youtu.be/0LyoOIfi9t0?si=7ltjx6V6ZDj5rlMC",
-      "description": "Walter Gibbons long remix which redefined the logical hierarchy of instrumentation."
+      "description": "Walter Gibbons long remix which redefined the logical hierarchy of instrumentation.",
+      "image": "https://www.dropbox.com/scl/fi/fz5vswpcqsleork907m2c/1978-bettylavette.png?rlkey=otsl0su1xzyivdcxeace119ha&dl=0"
     },
     {
       "year": "1978",
@@ -874,21 +1149,26 @@
       "title": "Starship Africa",
       "category": "Album",
       "link": "https://creationrebel.bandcamp.com/album/starship-africa",
-      "description": "Mixed by Adrian Sherwood, this album highlights layering instruments, noise bubbles and polyrhythmic ricochets. "
+      "description": "Mixed by Adrian Sherwood, this album highlights layering instruments, noise bubbles and polyrhythmic ricochets. ",
+      "image": "https://www.dropbox.com/scl/fi/pbbx6by0iavpir50nruiz/1978-creationrebel.png?rlkey=pzky7uftmjjl36of0xdhj2tes&dl=0"
     },
     {
       "year": "1977",
       "name": "David Behrman",
       "title": "On The Other Ocean",
       "category": "Album",
-      "link": "https://davidbehrmanlovely.bandcamp.com/album/on-the-other-ocean"
+      "link": "https://davidbehrmanlovely.bandcamp.com/album/on-the-other-ocean",
+      "description": "Album from David Behrman",
+      "image": "https://www.dropbox.com/scl/fi/cg93j89oxrrljjl67vbjp/1977_davidBehrman.jpg?rlkey=54gdsfn7h27f6v5jv4faj8tov&dl=0"
     },
     {
       "year": "1977",
       "name": "Brian Eno & Cluster",
       "title": "Cluster & Eno",
       "category": "Album",
-      "link": "https://clusterofficial.bandcamp.com/album/cluster-eno-2"
+      "link": "https://clusterofficial.bandcamp.com/album/cluster-eno-2",
+      "description": "1977 album from Cluster & Brian Eno",
+      "image": "https://www.dropbox.com/scl/fi/qgwjn3vsuptq6e24qxctc/1977_enoCluster.jpeg?rlkey=uw4ufmwpl00bwipk7vis9qtej&dl=0"
     },
     {
       "year": "1977",
@@ -896,7 +1176,8 @@
       "title": "As Serious As Your Life",
       "category": "Book",
       "link": "https://archive.org/details/asseriousasyourl0000unse/page/n1/mode/2up",
-      "description": "In this classic account of the new black music of the 1960s and 70s, celebrated photographer and jazz historian Val Wilmer tells the story of how a generation of revolutionary musicians established black music as the true vanguard of American culture."
+      "description": "In this classic account of the new black music of the 1960s and 70s, celebrated photographer and jazz historian Val Wilmer tells the story of how a generation of revolutionary musicians established black music as the true vanguard of American culture.",
+      "image": "https://www.dropbox.com/scl/fi/9wh47h2kucr30nzock8qa/1977-wilmer.png?rlkey=np0idw5hxshq0vg1xjqda8vug&dl=0"
     },
     {
       "year": "1977",
@@ -904,36 +1185,53 @@
       "title": "Mind Body Spirit Festival",
       "category": "Festival",
       "link": "https://en.wikipedia.org/wiki/Mind_Body_Spirit_Festival",
-      "description": "The Mind Body Spirit Festival is a festival that first took place at the Olympia Exhibition Centre in London in 1977."
+      "description": "The Mind Body Spirit Festival is a festival that first took place at the Olympia Exhibition Centre in London in 1977.",
+      "image": "https://www.dropbox.com/scl/fi/43c4dldzslbe5f8jbs9a4/1977_mindBodyFestival.jpg.webp?rlkey=48j5s556avtriqsxgky7b2bl2&dl=0"
     },
     {
       "year": "1976",
       "name": "Ashra",
       "title": "New Age of Earth",
       "category": "Album",
-      "link": "https://www.manuelgoettsching.com/disco/1761ne.htm"
+      "link": "https://www.manuelgoettsching.com/disco/1761ne.htm",
+      "description": "1976 album from Ashra",
+      "image": "https://www.dropbox.com/scl/fi/44t4vtkghabr7paicpf09/1976_ashra.jpeg?rlkey=cdtcx4lf0xd3gxw7u9d4v9bax&dl=0"
     },
     {
       "year": "1976",
-      "name": "Ashra",
-      "title": "New Age of Earth",
-      "category": "Album",
-      "link": "https://www.youtube.com/watch?v=8plQdob4JP8",
-      "description": "Ashra ‎– New Age Of Earth (1976) FULL ALBUM"
+      "name": "Stuart Marshall",
+      "title": "Alvin Lucier's Music of Signs In Space",
+      "category": "Article",
+      "link": "https://www.nicolascollins.com/texts/marshall_lucier.pdf",
+      "description": "Article describing Alvin Lucier",
+      "image": "https://www.dropbox.com/scl/fi/9wv6kg01gabafu3hcrm18/1976-stuartmarshall.png?rlkey=yt5xa39lpoic5lw2wefxhfsua&dl=0"
+    },
+    {
+      "year": "1976",
+      "name": "Theodor Schwenk",
+      "title": "Sensitive Chaos",
+      "category": "Article",
+      "link": "https://cs.brown.edu/courses/cs137/readings/Schwenk-1990-SCH.pdf",
+      "description": "Text describing formations through water.",
+      "image": "https://www.dropbox.com/scl/fi/gyi9w640t6ryyi9bbn33i/1976-sensitivechaos.png?rlkey=jff21dox9fjdoewjsoypcn8ud&dl=0"
     },
     {
       "year": "1975",
       "name": "Brian Eno",
       "title": "Another Green World Documentary",
       "category": "Film",
-      "link": "https://www.youtube.com/watch?v=CPOz5-rcIeA"
+      "link": "https://www.youtube.com/watch?v=CPOz5-rcIeA",
+      "description": "Brian Eno Film - 1975",
+      "image": "https://www.dropbox.com/scl/fi/hcizhg48v667gu4q3vfkr/1975_enoBrian.jpeg?rlkey=8zvirzvv5vll1djrhm3pbjf36&dl=0"
     },
     {
       "year": "1975",
       "name": "Robert Fripp & Brian Eno",
       "title": "Evening Star",
       "category": "Album",
-      "link": "https://pitchfork.com/reviews/albums/12546-no-pussyfooting-evening-star/"
+      "link": "https://pitchfork.com/reviews/albums/12546-no-pussyfooting-evening-star/",
+      "description": "Album from Robert Fripp and Brian Eno",
+      "image": "https://www.dropbox.com/scl/fi/0fdd6r3jrtuziubh1hrm6/1975_enoFripp.jpeg?rlkey=cwbw8qaviq009ul8ittk6idqh&dl=0"
     },
     {
       "year": "1975",
@@ -941,14 +1239,17 @@
       "title": "Inter-Dimensional Music",
       "category": "Album",
       "link": "https://iasos.bandcamp.com/album/inter-dimensional-music",
-      "description": "This is the album that began the genre of \"New Age\" Music in 1975, along with Steven Halpern's \"Spectrum Suite\". This is a compilation of Iasos' earliest works, and provides an excellent variety of interesting music for focused listening. This CD includes all the selections on the original LP, plus the bonus track \"Angel Play\"."
+      "description": "This is the album that began the genre of \"New Age\" Music in 1975, along with Steven Halpern's \"Spectrum Suite\". This is a compilation of Iasos' earliest works, and provides an excellent variety of interesting music for focused listening. This CD includes all the selections on the original LP, plus the bonus track \"Angel Play\".",
+      "image": "https://www.dropbox.com/scl/fi/lz9hcmcy89rivmt95hyot/1975_Iasos.jpeg?rlkey=m03fgto3bw1sf10qcq8gshpiu&dl=0"
     },
     {
       "year": "1975",
       "name": "Suzanne Ciani",
       "title": "Buchla Concerts 1975",
       "category": "Album",
-      "link": "https://suzanneciani.bandcamp.com/album/buchla-concerts-1975"
+      "link": "https://suzanneciani.bandcamp.com/album/buchla-concerts-1975",
+      "description": "These “concerts” are the epitome of rare music technology historic documents, performed by a real musician whose skills and academic education in classical composition already outweighed her male synthesiser contemporaries of twice her age. At the very start of her fragile career these recordings are nothing short of sacrificial ode to her mentor and machine, sonic pickets of the revolution and love letters to an absolutely genuine vision of and ‘alternative’ musical future. In denouncing her own precocious polymathmatic past in a bid to persuade the world to sing from a new hymn sheet, Suzanne Ciani created a bi-product of never before heard music that would render the pigeon holes “ambient” and “futuristic” utterly inadequate. Providing nothing short of an entirely different feminine take on the experimental “records” of Morton Subotnick and proving to a small, judgmental audience and jury the true versatility of one of the most radical and idiosyncratic musical instruments of the 20th century. These recordings have not been heard since then.",
+      "image": "https://www.dropbox.com/scl/fi/d5uaqbfh0vwx30cbawnuf/1975_cianiSuzanne.jpeg?rlkey=eeme022gv7hfhc819mzzq5yiy&dl=0"
     },
     {
       "year": "1975",
@@ -956,7 +1257,8 @@
       "title": "Love To Love You Baby",
       "category": "Song",
       "link": "https://www.youtube.com/watch?v=V5AztWseIdU",
-      "description": "Original long version 1975, vocalist D. Summer, electronic music, Giorgio Moroder."
+      "description": "Original long version 1975, vocalist D. Summer, electronic music, Giorgio Moroder.",
+      "image": "https://www.dropbox.com/scl/fi/ctl4z3u6q4f71vord2073/1975_Donna-Summer-Giorgio-Moroder.webp?rlkey=52fb4ig940v41dbr4nnqqzgpy&dl=0"
     },
     {
       "year": "1975",
@@ -964,21 +1266,26 @@
       "title": "New and Rediscovered Musical Instruments",
       "category": "Essay",
       "link": "https://sound-art-text.com/post/97315354858/david-toop-and-max-eastley-new-rediscovered",
-      "description": "Pictures from an unofficial reprint of David Toop's fondamental 1974 book on British instrument builders, published on his own Quartz/Mirliton imprint."
+      "description": "Pictures from an unofficial reprint of David Toop's fondamental 1974 book on British instrument builders, published on his own Quartz/Mirliton imprint.",
+      "image": "https://www.dropbox.com/scl/fi/epizzb9rch2r9ojsb05z9/1975-topp.png?rlkey=6ryss15x8xi4lc63f0il64xck&dl=0"
     },
     {
       "year": "1974",
       "name": "Charlemagne Palestine",
       "title": "Four Manifestations on Six Elements",
       "category": "Album",
-      "link": "https://staalplaatlabel.bandcamp.com/album/four-manifestations-on-six-elements"
+      "link": "https://staalplaatlabel.bandcamp.com/album/four-manifestations-on-six-elements",
+      "description": "Album from Charlemagne Palestine",
+      "image": "https://www.dropbox.com/scl/fi/hvo5uciufh1bigbjdyg4h/1974_palestineCharlamagne.jpeg?rlkey=iziuh8qsler9iat4jrmf9id8d&dl=0"
     },
     {
       "year": "1974",
       "name": "Pauline Oliveros",
       "title": "Sonic Meditations",
       "category": "Article",
-      "link": "https://www.newyorker.com/culture/culture-desk/listening-as-activism-the-sonic-meditations-of-pauline-oliveros"
+      "link": "https://www.newyorker.com/culture/culture-desk/listening-as-activism-the-sonic-meditations-of-pauline-oliveros",
+      "description": "Article describing Oliveros practice in sonic meditations.",
+      "image": "https://www.dropbox.com/scl/fi/lfv1964ed3ss4s1493f31/1974_oliverosPauline.webp?rlkey=j6b2400vrpq0j3wpg5qp514an&dl=0"
     },
     {
       "year": "1974",
@@ -986,7 +1293,8 @@
       "title": "Sun Ra and his Intergalactic Arkestra - Live Jazz Session",
       "category": "Performance",
       "link": "https://www.youtube.com/watch?v=guQUde8MOyc",
-      "description": "Black & white video captured in France on 1-8-72 on their way back to Oakland after the 1971 Euro/Egypt tour."
+      "description": "Black & white video captured in France on 1-8-72 on their way back to Oakland after the 1971 Euro/Egypt tour.",
+      "image": "https://www.dropbox.com/scl/fi/e9f946cefve9d4z857wjf/1974_sunRa.png?rlkey=z9q0ncdmsuhvwgddnu078d4c9&dl=0"
     },
     {
       "year": "1974",
@@ -994,7 +1302,8 @@
       "title": "Sun Ra - Space is the Place",
       "category": "Film",
       "link": "https://www.youtube.com/watch?v=owCPrIEliZc",
-      "description": "Space Is the Place is an 85-minute Afrofuturist science fiction film made in 1972 and released in 1974. It was directed by John Coney, written by Sun Ra and Joshua Smith, and features Sun Ra and his Arkestra. During the late-1960s and early-1970s, Sun Ra and his ensemble made several forays to California. In 1971, Sun Ra taught a course, \"The Black Man in the Cosmos\", at University of California, Berkeley. Over the course of these California visits, Sun Ra came to the attention of Jim Newman, who produced the film Space Is the Place starring Sun Ra and his Arkestra, and based, in part, on Sun Ra's Berkeley lectures."
+      "description": "Space Is the Place is an 85-minute Afrofuturist science fiction film made in 1972 and released in 1974. It was directed by John Coney, written by Sun Ra and Joshua Smith, and features Sun Ra and his Arkestra. During the late-1960s and early-1970s, Sun Ra and his ensemble made several forays to California. In 1971, Sun Ra taught a course, \"The Black Man in the Cosmos\", at University of California, Berkeley. Over the course of these California visits, Sun Ra came to the attention of Jim Newman, who produced the film Space Is the Place starring Sun Ra and his Arkestra, and based, in part, on Sun Ra's Berkeley lectures.",
+      "image": "https://www.dropbox.com/scl/fi/2nnwmzib4fj3bangbz4kr/1974_coneyJohn.jpeg?rlkey=t0b26144oca3wxs8aqko8h9lj&dl=0"
     },
     {
       "year": "1974",
@@ -1002,7 +1311,8 @@
       "title": "Illuminations",
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=64OGEASKuXg",
-      "description": "Label: Columbia / Year: 1974"
+      "description": "Label: Columbia / Year: 1974",
+      "image": "https://www.dropbox.com/scl/fi/mn143yrzhwo3suhc4t835/1974_Alice-Coltrane-Carlos-Santana.jpeg?rlkey=d4m58xg9bn4wi3ox4g6t3x9mg&dl=0"
     },
     {
       "year": "1974",
@@ -1010,21 +1320,17 @@
       "title": "World Within Worlds",
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=MkaRhYwX9MQ",
-      "description": "1974 Album exploring ambience and field recordings. "
+      "description": "1974 Album exploring ambience and field recordings. ",
+      "image": "https://www.dropbox.com/scl/fi/m36mtnqshbcs95l7erzvt/1974-kirchin.jpeg?rlkey=ptn0qvqg2fw4p3a0hdirtne6x&dl=0"
     },
     {
       "year": "1973",
       "name": "Stephen Hill",
       "title": "Hearts of Space",
       "category": "Radio Station, Archive",
-      "link": "https://www.hos.com/home"
-    },
-    {
-      "year": "1973",
-      "name": "Alan Watts",
-      "title": "This is It",
-      "category": "Essay",
-      "link": "https://terebess.hu/english/watts-This-is-it.pdf"
+      "link": "https://www.hos.com/home",
+      "description": "Hearts of Space is an American weekly syndicated public radio show[4] featuring music of a contemplative nature[5] drawn largely from the ambient, new-age and electronic genres, while also including classical, world, Celtic, experimental, and other music selections.[6][7][8] For many years, the show's producer and presenter, Stephen Hill, has applied the term \"space music\" to the music broadcast on the show, irrespective of genre.[9] It is the longest-running radio program of its type in the world. Each episode ends with Hill gently saying, \"Safe journeys, space fans ... wherever you are.\"",
+      "image": "https://www.dropbox.com/scl/fi/230xlbfixvxy0u0wmfxoa/1973_HillStephen.jpeg?rlkey=ok4t8c27g51crbexercwd4psa&dl=0"
     },
     {
       "year": "1973",
@@ -1032,7 +1338,8 @@
       "title": "Spencer to Hood: A Changing View of Non-European Music",
       "category": "Research Paper",
       "link": "https://www.jstor.org/stable/3031717",
-      "description": "Paper exploring the shift of western music. "
+      "description": "Paper exploring the shift of western music. ",
+      "image": "https://www.dropbox.com/scl/fi/s9vciv1yguuynzyzz9wun/1973-klaus.png?rlkey=t1ibvgdagkvuh8hs9658j25b8&dl=0"
     },
     {
       "year": "1972",
@@ -1040,7 +1347,31 @@
       "title": "Tibetan Bells",
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=PTZMBAa7gf8",
-      "description": "Ambient album from Henry Wolff & Nancy Hennings"
+      "description": "Ambient album from Henry Wolff & Nancy Hennings",
+      "image": "https://www.dropbox.com/scl/fi/rkiwtpkrs9zig44s6gy4o/1972-tibet.jpeg?rlkey=zrb68hlpxjb1zcmq32qm8eg59&dl=0"
+    },
+    {
+      "year": "1972",
+      "name": "Terry Riley",
+      "title": "Persian Surgery Dervishes",
+      "category": "Album",
+      "link": "https://www.youtube.com/watch?v=sqQ59i4PmGE",
+      "description": "Persian Surgery Dervishes is a recording of two live solo electric organ concerts, the first held in Los Angeles on 18 April 1971 and the second in Paris on 24 May 1972, by avant-garde minimalist composer Terry Riley, following his A Rainbow in Curved Air and In C. The two very different performances of the same composition \"Persian Surgery Dervishes\" are meant to show the importance of improvisation in Riley's music. Riley plays a modified Yamaha electric organ tuned in just intonation."
+    },
+    {
+      "year": "1971",
+      "name": "Pauline Oliveros",
+      "title": "Sonic Meditations",
+      "category": "Book",
+      "link": "https://www.soundportraits.info/wp-content/uploads/2019/06/Oliveros_Pauline_Sonic_Meditations_1974.pdf"
+    },
+    {
+      "year": "1970",
+      "name": "Dr. Roger Payne",
+      "title": "Songs of the Humpback Whale",
+      "category": "Album",
+      "link": "https://paulwinter.bandcamp.com/album/songs-of-the-humpback-whale",
+      "description": "Legendary album which was one of the first mass manufactured albums to record non-humans. "
     },
     {
       "year": "1969",
@@ -1066,6 +1397,14 @@
       "description": "The People United is a set of 36 variations on the Chilean song \"¡El pueblo unido jamás será vencido!\" by Sergio Ortega and Quilapayún.\nThe song on which the variations is based is one of many that emerged from the Unidad Popular coalition in Chile between 1969 and 1973, prior to the overthrow of the Salvador Allende government. Rzewski composed the variations in September and October 1975, as a tribute to the struggle of the Chilean people against the newly imposed repressive regime of Augusto Pinochet; indeed the work contains allusions to other leftist struggles of the same and immediately preceding time, such as quotations from the Italian traditional socialist song \"Bandiera Rossa\" and the Bertolt Brecht-Hanns Eisler \"Solidarity Song.\"\n\nIn general, the variations are short, and build up to climaxes of considerable force. The 36 variations, following the 36 bars of the tune, are in six groups of six. The pianist, in addition to needing a virtuoso technique, is required to whistle, slam the piano lid, and catch the after-vibrations of a loud attack as harmonics: all of these are \"extended\" techniques in 20th-century piano writing. Much of the work uses the language of 19th-century romanticism, but mixes this language with pandiatonic tonality, modal writing, and even serial techniques.\n\nAs in the Goldberg Variations by Johann Sebastian Bach, the final variation is a direct restatement of the original theme, intended to be heard with new significance after the long journey through the variations."
     },
     {
+      "year": "1969",
+      "name": "Buckminster Fuller",
+      "title": "Operating Manual For Spaceship Earth",
+      "category": "Book",
+      "link": "https://designsciencelab.com/resources/OperatingManual_BF.pdf",
+      "description": "In this accessible volume, first published in 1969, Fuller offers advice on how to guide \"spaceship earth\" toward a sustainable future."
+    },
+    {
       "year": "1968",
       "name": "Thomas Sebok",
       "title": "Zoosemiotics",
@@ -1079,6 +1418,22 @@
       "title": "What?",
       "category": "Album",
       "link": "https://thequietus.com/articles/11323-folke-rabe-what-review"
+    },
+    {
+      "year": "1967",
+      "name": "Hans Jenny",
+      "title": "Cymatics",
+      "category": "Book",
+      "link": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://monoskop.org/images/7/78/Jenny_Hans_Cymatics_A_Study_of_Wave_Phenomena_and_Vibration.pdf",
+      "description": "Cymatics is the study of sound-wave phenomena. This text vividly depicts the significance of audible sound throughout our world."
+    },
+    {
+      "year": "1967",
+      "name": "Sun Ra & His Myth Science Arkestra",
+      "title": "Cosmic Tones for Mental Therapy",
+      "category": "Album",
+      "link": "https://sunramusic.bandcamp.com/album/cosmic-tones-for-mental-therapy",
+      "description": "1967 Album"
     },
     {
       "year": "1966",
@@ -1104,12 +1459,44 @@
       "description": "Experimental. Musique Concrete."
     },
     {
+      "year": "1962",
+      "name": "John C. Lilly",
+      "title": "John C. Lilly - The Scientist - Subtitled",
+      "category": "Interview",
+      "link": "https://www.youtube.com/watch?v=PZ9cJ5wFqrk",
+      "description": "Interview on dolphin communication. "
+    },
+    {
+      "year": "1960",
+      "name": "La Monte Young",
+      "title": "Composition 1960 #7",
+      "category": "Music Score",
+      "link": "https://www.moma.org/collection/works/127629",
+      "description": "With 4’33” Cage paved the way for works such as Young’s Composition 1960 pieces, which provide one of the basic foundations for the idea to serve as the artwork by itself, with no unnecessary embellishments. Central to Young’s work is the concept of “stasis,” as opposed to “Fluxus.” “Change or flux is inevitable,” Young wrote. “Stasis, or remaining the same, is impossible. Therefore, to achieve the static state is the goal, while the state of flux, variation, or contrast, is unavoidable and thus unnecessary as a goal.” Later, Composition 1960 pieces appeared alongside works by other artists in An Anthology (1963), edited by Young, a publication characterized as “chance operations, concept art, anti art, indeterminacy, . . . improvisation, meaningless work,” and “natural disasters.” In 1960 and 1961, together with Yoko Ono, Young organized a series of events at Ono’s loft on Chambers Street that had a germinative effect on the formation of Fluxus.\n"
+    },
+    {
+      "year": "1960",
+      "name": "La Monte Young",
+      "title": "Composition 6",
+      "category": "Performance",
+      "link": "https://www.youtube.com/watch?v=lszrDRmK-Cw",
+      "description": " 1 hour version of La Monte Young's Composition 1960 No.7"
+    },
+    {
       "year": "1952",
       "name": "John Cage",
       "title": "4'33\" (In Proportional Notation)",
       "category": "Music Score",
       "link": "https://www.moma.org/collection/works/163616",
       "description": "4'33\" (In Proportional Notation) is one of three versions of the score for Cage’s “silent piece,” a musical composition first performed by the pianist David Tudor in Woodstock, New York, in 1952. While the lost original score used conventional musical notation to signify three periods of silence, this version is composed of a series of vertical lines that visually represent the duration of four minutes and thirty-three seconds of silence."
+    },
+    {
+      "year": "1949",
+      "name": "Harry Partch",
+      "title": "Genesis of a Music",
+      "category": "Book",
+      "link": "https://archive.org/details/genesisofmusicac00partc",
+      "description": "Genesis of a Music is a book first published in 1949 by microtonal composer Harry Partch. Partch first presents a polemic against both equal temperament and the long history of stagnation in the teaching of music."
     },
     {
       "year": "1947",
@@ -1144,6 +1531,14 @@
       "description": "Cotton Club, legendary nightspot in the Harlem district of New York City that for years featured prominent Black entertainers who performed for white audiences. The club served as the springboard to fame for Duke Ellington, Cab Calloway, and many others."
     },
     {
+      "year": "1917",
+      "name": "Furniture Music",
+      "title": "Eric Satie ",
+      "category": "Term",
+      "link": "https://en.wikipedia.org/wiki/Furniture_music",
+      "description": "Describes a concept of music, a precursor to ambient music. "
+    },
+    {
       "year": "1916",
       "name": "Cabaret Voltaire",
       "title": "Dada and Cabaret Voltaire",
@@ -1173,6 +1568,14 @@
       "category": "Letters",
       "link": "https://en.debussyabichain.com/booking",
       "description": "Collection of letters from Claude Debussy. "
+    },
+    {
+      "year": "1787",
+      "name": "Ernst Chladni",
+      "title": "Chladni Figures",
+      "category": "Archive",
+      "link": "https://publicdomainreview.org/collection/chladni-figures-1787/",
+      "description": "In 1787, German physicist and musician Ernst Chladni published a technique to visualize the modes of vibration of a rigid surface. "
     },
     {
       "year": "1603",

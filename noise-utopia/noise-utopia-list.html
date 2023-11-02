@@ -42,15 +42,6 @@
       *:after {
         box-sizing: border-box;
       }
-      .sticky.special-header-row {
-    position: fixed !important;
-    top: 0 !important;
-    width: 100% !important;
-    z-index: 1000 !important;
-    left: 0 !important;
-}
-
-
 
       :root {
         --year-width: 10%;
@@ -69,35 +60,35 @@
         overflow-x: hidden;
       }
       .blink {
-        -webkit-animation: blink 2s infinite both;
-        animation: blink 2s infinite both;
-      }
+    -webkit-animation: blink 2s infinite both;
+            animation: blink 2s infinite both;
+}
 
-      @-webkit-keyframes blink {
-        0%,
-        50%,
-        100% {
-          opacity: 1;
-        }
-        25%,
-        75% {
-          opacity: 0;
-        }
-      }
-      @keyframes blink {
-        0%,
-        50%,
-        100% {
-          opacity: 1;
-        }
-        25%,
-        75% {
-          opacity: 0;
-        }
-      }
+@-webkit-keyframes blink {
+  0%,
+  50%,
+  100% {
+    opacity: 1;
+  }
+  25%,
+  75% {
+    opacity: 0;
+  }
+}
+@keyframes blink {
+  0%,
+  50%,
+  100% {
+    opacity: 1;
+  }
+  25%,
+  75% {
+    opacity: 0;
+  }
+}
 
       .header-row {
-        background-color: #cccccc;
+        background-color: #dddee0;
         color: #626461;
         display: flex;
         justify-content: space-between;
@@ -109,25 +100,25 @@
       .header-row,
       .row-content {
         display: grid;
-        grid-template-columns:
-          var(--year-width) var(--name-width) var(--title-width)
-          var(--category-width) auto;
-        border-bottom: 1px solid #cccccc;
+        grid-template-columns: var(--year-width) var(--name-width) var(
+            --title-width
+          ) var(--category-width) auto;
+        border-bottom: 1px solid #dddee0;
         padding: 10px;
         align-items: center;
       }
 
       .row-container {
-        border: 1px solid #cccccc;
+        border: 1px solid #dddee0;
         position: relative;
       }
 
       .row-container:hover .row-content {
-        background-color: #6609b6;
+        background-color: #c5a8de;
       }
 
       .row-container:hover .flex-item {
-        color: #cccccc;
+        color: #626461;
       }
 
       .expand-collapse-symbol {
@@ -170,7 +161,7 @@
         display: none;
         width: 100%;
         padding: 10px;
-        background-color: #6609b6;
+        background-color: #c5a8de;
         border-top: 1px solid #dddee0;
       }
 
@@ -192,20 +183,19 @@
       }
 
       .sticky-footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    bottom: 0; /* this positions it at the bottom */
-    width: 100%;
-    height: var(--footer-height);
-    background-color: #6609b6;
-    padding: 15px 0;
-    z-index: 3000;
-    overflow: hidden;
-}
-
-
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: var(--footer-height);
+        background-color: #c5a8de;
+        padding: 15px 0;
+        z-index: 3;
+        overflow: hidden;
+      }
       .special-header-row {
         background-color: black;
         height: 40px;
@@ -214,13 +204,9 @@
         justify-content: space-between;
         align-items: center;
         position: relative;
-        padding-right: 0;
-      }
+        padding-right: 0; /* Add this line */
 
-      .content-after-special-header-row {
-        padding-top: 50px; /* height of your special-header-row + any desired space */
       }
-
       .tickerwrapper {
         overflow: hidden;
         white-space: nowrap;
@@ -259,21 +245,20 @@
         padding-top: 13px;
       }
       #songTitle {
-        font-size: 16px; /* Adjust font size as needed */
-        color: white;
-        margin-right: 10px; /* Adjust spacing between title and play button */
-        transition: opacity 0.7s;
-      }
-      .player-controls {
-        display: flex;
-        align-items: center;
-      }
-      #playButton {
-        padding: 0;
-        margin: 0;
-        border: none;
-        background: none;
-      }
+    font-size: 16px; /* Adjust font size as needed */
+    color: white; 
+    margin-right: 10px; /* Adjust spacing between title and play button */
+    transition: opacity 0.7s;
+}.player-controls {
+    display: flex;
+    align-items: center;
+}
+#playButton {
+    padding: 0;
+    margin: 0;
+    border: none;
+    background: none;
+}
 
       #playButton .play-icon,
       #playButton .stop-icon {
@@ -321,26 +306,28 @@
         <div class="header-item"></div>
         <div class="header-item"></div>
         <div class="player-controls">
-          <span id="songTitle" style="display: none"></span>
-          <button id="playButton" data-playing="false">
-            <svg
-              class="play-icon"
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24"
-              preserveAspectRatio="xMidYMid meet"
-            >
-              <path d="M8 5v14l11-7z" fill="#ffffff" />
-            </svg>
-            <svg
-              class="stop-icon"
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24"
-              preserveAspectRatio="xMidYMid meet"
-            >
-              <path d="M6 6h12v12H6z" fill="#ffffff" />
-            </svg>
-          </button>
-        </div>
+        <span id="songTitle" style="display: none;"></span>
+        <button id="playButton" data-playing="false">
+          <svg
+            class="play-icon"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            preserveAspectRatio="xMidYMid meet"
+
+          >
+            <path d="M8 5v14l11-7z" fill="#ffffff" />
+          </svg>
+          <svg
+            class="stop-icon"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            preserveAspectRatio="xMidYMid meet"
+
+          >
+            <path d="M6 6h12v12H6z" fill="#ffffff"/>
+          </svg>
+        </button>
+      </div>
       </div>
 
       <div class="header-row">
@@ -387,15 +374,14 @@
           </ul>
         </div>
       </div>
-</div>
+
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
       <script src="https://w.soundcloud.com/player/api.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
       <script src="marque.js" defer></script>
       <script src="table.js" defer></script>
       <script>
-        
-        const playButton = document.getElementById("playButton");
+const playButton = document.getElementById("playButton");
 const scIframe = document.getElementById("sc-player");
 const scPlayer = SC.Widget(scIframe);
 const songTitleElement = document.getElementById("songTitle");
@@ -407,39 +393,21 @@ playButton.addEventListener("click", function () {
         scPlayer.pause();
         isPlaying = false;
         playButton.setAttribute("data-playing", "false");
-        songTitleElement.style.display = "none"; // Hide the song title
+
+        // Hide the song title
+        songTitleElement.style.display = "none";
     } else {
         scPlayer.play();
         isPlaying = true;
         playButton.setAttribute("data-playing", "true");
-
-        scPlayer.getCurrentSound(function (song) {
-            if (song) {
-                let artworkUrl = song.artwork_url;
-                console.log(artworkUrl); // This will print the URL of the song's artwork.
-
-                songTitleElement.textContent = "Now Playing: " + song.title;
-                songTitleElement.style.display = "inline-block"; // Show and blink the song title
-                songTitleElement.classList.add("blink");
-            }
+        
+        // Show the song title immediately
+        scPlayer.getCurrentSound(function(song) {
+          songTitleElement.textContent = "Now Playing: " + song.title;
+            // Show and blink the song title
+            songTitleElement.style.display = "inline-block";
+            songTitleElement.classList.add('blink');
         });
-    }
-});
-
-      </script>
-      <script>
-       const flexContainer = document.querySelector(".flex-container");
-const specialHeader = document.querySelector(".special-header-row");
-
-flexContainer.addEventListener("scroll", function() {
-    const distanceFromTop = specialHeader.getBoundingClientRect().top;
-
-    if (flexContainer.scrollTop === 0) {
-        specialHeader.classList.remove("sticky");
-    } else if (distanceFromTop <= 0) {
-        specialHeader.classList.add("sticky");
-    } else {
-        specialHeader.classList.remove("sticky");
     }
 });
 

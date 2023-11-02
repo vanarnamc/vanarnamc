@@ -1,0 +1,378 @@
+@font-face {
+    font-family: "ABC ROM Mono Unlicensed Trial";
+    src: url("fonts/ABCROMMono-Light-Trial.otf") format("truetype");
+  }
+
+  @font-face {
+    font-family: "ABC ROM Condensed Regular Trial";
+    src: url("fonts/ABCROMCondensed-Regular-Trial.otf") format("opentype");
+  }
+
+@font-face {
+    font-family: "ABC ROM Reg";
+    src: url(fonts/ABCROM-Regular-Trial.otf) format("opentype");
+}
+
+  body {
+    background-color: rgb(224, 56, 224);
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 100vw;
+    /* Arrange children in a column */
+
+  }
+
+.about-text{
+    font-family: "ABC ROM Reg";
+    font-size: 45px;
+    line-height: 1;
+    padding-left: 10px;
+    margin-top: 0;
+}
+
+  .right-side {
+    display: flex;
+    flex-direction: column;
+    /* Stack filters and grid vertically */
+    position: relative;
+  }
+
+  .side-nav {
+    flex: 0.25;
+    /* Take up 25% of the parent's height */
+    width: 25%;
+    /* Take up 25% of the parent's width */
+    background-color: #000000;
+    color: #fff;
+    font-family: "ABC ROM Mono Unlicensed Trial";
+    font-size: 16px;
+    font-style: normal;
+    line-height: normal;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100dvh;
+    overflow-y: scroll;
+    padding: 0;
+    box-sizing: border-box;
+    padding: 10px;
+
+    display: flex;
+    /* Set it as a flex container */
+    flex-direction: column;
+    /* Arrange children vertically */
+    justify-content: space-between;
+    /* Push .web-player to the bottom */
+  }
+
+  .stars {
+    display: block;
+    /* ensures the stars are on their own line */
+    margin: 15px 0;
+    /* adds some margin above and below the stars for spacing */
+    letter-spacing: 3px;
+    /* adds space between individual stars */
+  }
+
+  .side-nav-links a {
+    display: block;
+    /* makes each link occupy its own line */
+    color: #fff;
+    /* color of the link, setting it to white */
+    text-decoration: none;
+    /* removes underlines */
+    margin-bottom: 5px;
+    /* add space below each link */
+  }
+
+  .side-nav-links {
+    margin-bottom: 0;
+    /* Adjust the value as needed */
+  }
+
+  .side-nav-links a:hover {
+    text-decoration: underline;
+    /* keeps the color white even when hovered */
+  }
+
+  .side-nav-paragraph {
+    margin-top: 30px;
+    /* Add some margin for spacing */
+    margin-bottom: 30px;
+    /* Add some margin for spacing */
+  }
+
+  .side-nav-info {
+    margin-bottom: 10px;
+    /* Push the info to the bottom */
+  }
+
+  .soundcloud-player-button {
+    background-color: transparent;
+  }
+
+  .content-container {
+    width: 75%;
+    /* set the width of the content to 75% of the viewport */
+    margin-left: 25%;
+    /* push content to the right, leaving space for the side nav */
+    position: relative;
+    /* set as a reference for absolute positioning of children */
+  }
+
+  .grid-container {
+    width: 100%;
+    column-count: 4;
+    column-gap: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .grid-item {
+    display: inline-block;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: transparent;
+    /* Set the initial background color to transparent */
+    transition: background-color 0.3s, color 0.3s;
+    /* Add a smooth transition effect */
+  }
+
+  .grid-item a {
+    position: relative;
+    display: block;
+    color: #fff;
+    /* Text color when not hovered */
+    text-decoration: none;
+    transition: color 0.3s;
+    /* Add a smooth transition effect for text color */
+  }
+
+  .grid-item img {
+    width: 100%;
+    display: block;
+    filter: grayscale(100%);
+    mix-blend-mode: multiply;
+    filter: brightness(1);
+  }
+
+  #filters {
+    position: absolute;
+    /* Start out as absolute */
+    top: 0;
+    /* Position at the top */
+    left: 0;
+    /* Align to the left or the desired position */
+    width: 100%;
+    /* Set the desired width */
+    transition: top 0.3s ease-in-out;
+    /* Optional: for a smooth transition when it sticks */
+    padding: 20px;
+    z-index: 100000;
+    /* Rest of your styles */
+  }
+
+  
+  #filters.sticky {
+    position: sticky;
+    top: 0;
+  }
+  
+  #filters:before {
+    content: '';
+    display: block;
+    height: filtersInitialTop; /* Same as the initial top value */
+    visibility: hidden;
+  }
+  .filter-button:hover {
+    background-color: #333;
+    /* Changes the background color when hovered */
+  }
+
+  .overlay {
+    box-sizing: border-box;
+    /* Added to ensure padding doesn't increase size */
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* height: 100%; */
+    display: none;
+    background: rgba(0, 0, 0);
+    /* Adjusted opacity for visibility */
+    color: #fff;
+    /* Text color on overlay */
+    transition: background-color 0.3s;
+    /* Add a smooth transition effect for background color */
+  }
+
+  .grid-item .overlay h3 {
+    font-family: "ABC ROM Condensed Regular Trial";
+    text-transform: uppercase;
+    font-size: 36px;
+    line-height: 0.9;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 15px;
+    /* Add this line to adjust the margin bottom */
+    overflow: hidden;
+  }
+
+  /* Blinking animation for "NOW PLAYING" and track title */
+  @keyframes blink {
+    0% {
+      opacity: 0;
+    }
+
+    50% {
+      opacity: 1;
+    }
+
+    100% {
+      opacity: 0;
+    }
+  }
+
+  .currently-playing {
+    animation: blink 2s infinite;
+    /* Adjust the duration and timing as needed */
+  }
+
+  .grid-item .overlay p {
+    font-family: "ABC ROM Mono Unlicensed Trial";
+  }
+
+  .grid-item:hover {
+    background-color: #000;
+    /* Change background color on hover */
+  }
+
+  .grid-item:hover a {
+    color: #2e5ec0;
+    /* Change text color on hover */
+  }
+
+  .grid-item:hover .overlay {
+    display: block;
+    color: #2e5ec0;
+  }
+
+  .web-player {
+    width: 100%;
+    border-radius: 10px;
+
+    background-color: transparent;
+    /* Set a transparent background */
+    z-index: 99999;
+  }
+
+  /* If you want to add more space between the controls and the content, you can add a padding to the top of the .grid-container */
+  .grid-container {
+    padding-top: 50px;
+    /* Adjust this as needed */
+  }
+
+  button {
+    border: none;
+  }
+
+  .side-nav-weather {
+    margin-bottom: 20px;
+  }
+
+  .filter-button {
+    padding: 10px 20px;
+    /* Adds padding inside the button */
+    margin: 5px;
+    /* Adds margin outside the button */
+    background-color: #000;
+    /* Sets the background color of the button */
+    color: #fff;
+    /* Sets the text color of the button */
+    border: none;
+    /* Removes the border */
+    border-radius: 0px;
+    /* Makes the corners rounded */
+    cursor: pointer;
+    /* Changes the cursor to a hand when hovering over the button */
+    text-align: center;
+    /* Centers the text within the button */
+    display: inline-block;
+    /* Allows multiple buttons to be on the same line */
+    transition: background-color 0.3s;
+    /* Smooth transition for hover effect */
+    font-family: ABC ROM Mono Unlicensed Trial;
+
+    
+  }
+  .filter-button:hover {
+background-color: #fff; /* Inverts background color */
+color: #000; /* Inverts text color */
+}
+  .clear-button {
+    background-color: #fff;
+    /* Set the background color to white */
+    color: #000;
+    /* Set the text color to black */
+    border: 2px solid #000;
+    /* Optional: Add a black border */
+  }
+
+  .clear-button:hover {
+    color: white;
+    
+    background-color: #000000;
+    /* Set a different background color when hovered */
+  }
+
+  .soundcloud-player-button {
+    /* background-color: #7e7e7e; */
+    /* background color */
+    /* Remove borders */
+    padding: 0;
+    /* Remove padding */
+    box-shadow: none;
+    /* Remove shadow */
+    outline: none;
+    /* Remove outline on focus */
+
+    border-radius: 10px;
+
+  }
+
+  .white-line{
+    height: 2px; 
+    width: 95%; 
+    background-color: white;
+    margin-top: 10px;
+  }
+
+  .play-button {
+    border: rgb(131, 0, 0);
+    outline: solid;
+    cursor: pointer;
+  }
+
+  /* Change the color of the play icon */
+  .play-icon path {
+    fill: #ffffff;
+    /* Change the fill color to green */
+  }
+
+  /* Change the color of the stop icon */
+  .stop-icon path {
+    fill: red;
+    /* Change the fill color to red */
+  }
+
+

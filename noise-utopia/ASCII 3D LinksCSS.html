@@ -60,7 +60,36 @@
             text-align: center;
             font-size: 12px;
         }
+        #playButton {
+    padding: 0;
+    margin: 0;
+    border: none;
+    background: none;
+}
 
+      #playButton .play-icon,
+      #playButton .stop-icon {
+        width: 40px;
+        height: 40px;
+        /* fill: #dddee0; */
+        vertical-align: middle;
+        cursor: pointer;
+      }
+      #playButton .play-icon {
+        display: none; /* Initially hidden */
+      }
+
+      #playButton[data-playing="false"] .play-icon {
+        display: inline-block;
+      }
+
+      #playButton[data-playing="false"] .stop-icon {
+        display: none;
+      }
+
+      #playButton[data-playing="true"] .stop-icon {
+        display: inline-block;
+      }
         .floater-content:hover {
             border: 10px solid black;
         }
