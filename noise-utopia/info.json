@@ -7,7 +7,7 @@
       "category": "Information / Article",
       "link": "https://en.wikipedia.org/wiki/Singing_sand",
       "description": "Article describing the phenomenon 'singing sands' which influenced many shamans, and music makers inspired by nature. ",
-      "image": "https://raw.githubusercontent.com/vanarnamc/vanarnamc.github.io/97ffa47b87a2ee547ed37ff62268f58dba2f08e9/noise-utopia/assets/images/singing.jpeg"
+      "image": "assets/images/singing.jpeg"
     },
     {
       "year": "2023",
@@ -16,7 +16,7 @@
       "category": "Compilation",
       "link": "https://www.mixcloud.com/mixmastermorris/stream/",
       "description": "Mixmaster Morris is an English electronica DJ and underground musician who has also recorded as The Irresistible Force. His work in the 1990s blended ambient music and chill-out influences with UK dance styles.",
-      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2023_mixMasterMorris.jpg?raw=true"
+      "image": "assets/images/2023_mixMasterMorris.jpg"
     },
     {
       "year": "2023",
@@ -25,7 +25,7 @@
       "category": "Album",
       "link": "https://lordoftheisles.bandcamp.com/album/my-noise-is-nothing",
       "description": "‘My Noise is Nothing’ is the collaborative LP between Lord of The Isles and Scottish poet Ellen Renton, set for release on the 29th September 2023.",
-      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2023_Lord%20of%20The%20Isles%20&%20Ellen%20Renton.jpeg?raw=true"
+      "image": "assets/images/2023_Lord of The Isles & Ellen Renton.jpeg"
     },
     {
       "year": "2022",
@@ -34,7 +34,7 @@
       "category": "Interview",
       "link": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Interview_Terry-Reilly.pdf",
       "description": "Interview with Tery Riley",
-      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2022_terryRiley.png?raw=true"
+      "image": "assets/images/2022_loc_InterviewWithTerryRiley.png"
     },
     {
       "year": "2022",
@@ -43,7 +43,7 @@
       "category": "Essay",
       "link": "http://www.sarahpeebles.net/108tokyo/Yoshimura%20English.pdf",
       "description": "Essay on “Walking through Tokyo\" audio, “sound chaos” and Asian soundscapes",
-      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2022_hiroshiYoshimura_walkingThroughTokyo.png?raw=true"
+      "image": "assets/images/2022_hiroshiYoshimura_walkingThroughTokyo.png"
     },
     {
       "year": "2021",
@@ -52,7 +52,7 @@
       "category": "Album",
       "link": "https://grouper.bandcamp.com/album/shade",
       "description": "Album from Grouper.",
-      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2021_grouperShade.jpg?raw=true"
+      "image": "assets/images/2021_grouperShade.jpg"
     },
     {
       "year": "2021",
@@ -61,7 +61,7 @@
       "category": "Essay",
       "link": "https://daily.bandcamp.com/lists/japanese-environmental-music-list",
       "description": "Essay describing Japanese ambient music on bandcamp. ",
-      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2021_shyThompson_musicThatLivesWithYou.jpeg?raw=true"
+      "image": "assets/images/2021_shyThompson_musicThatLivesWithYou.jpeg"
     },
     {
       "year": "2021",
@@ -70,7 +70,7 @@
       "category": "Film",
       "link": "https://www.youtube.com/watch?v=FZaw2W93pvo",
       "description": "Mary Lattimore film",
-      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2021_rachaelPony.png?raw=true"
+      "image": "assets/images/2021_RachaelPonyCassells_MaryLattimore_silverLadders.png"
     },
     {
       "year": "2021",
@@ -79,7 +79,7 @@
       "category": "Interview",
       "link": "https://www.youtube.com/watch?v=BOtrCYyf4cg",
       "description": "Interview with Brian Eno on sound",
-      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2021_brokenRecordPodcast_brianEno.png?raw=true"
+      "image": "assets/images/2021_brokenRecordPodcast_brianEno.png"
     },
     {
       "year": "2021",
@@ -106,7 +106,7 @@
       "category": "Album",
       "link": "https://simonscott.bandcamp.com/album/migrations",
       "description": "Album from Simon Scott",
-      "image": "https://www.dropbox.com/scl/fi/qjrddbqtv7ntxq8s20w2f/2020_simonScott_migrations.jpg?rlkey=5b4kz24o25acqn835mr2tgvph&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2020_simonScott_migrations.jpg?raw=true"
     },
     {
       "year": "2020",
@@ -115,7 +115,7 @@
       "category": "Film",
       "link": "https://sisterswithtransistors.com/",
       "description": "Film exploring the power of female's behind synthesizers",
-      "image": "https://www.dropbox.com/scl/fi/jvai2naq1on4h04viep8e/2020_sisters.png?rlkey=nj7mnr5wrd3j4y17csokg8qmi&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2020_lisaRovner_sistersWithTransistors.png?raw=true"
     },
     {
       "year": "2020",
@@ -124,7 +124,7 @@
       "category": "Field Recording",
       "link": "https://vimeo.com/430615444",
       "description": "Reseracher shows the reverberation and the effects of site specific cave dwellings.",
-      "image": "https://www.dropbox.com/scl/fi/a5ag9vl5bed8v0ycuc8d5/2020_steveDudrow_LocusAcrossRoadFarField.png?rlkey=se0rqrqiiyrlfkztksskgvp1k&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2020_steveDudrow_LocusAcrossRoadFarField.png?raw=true"
     },
     {
       "year": "2020",
@@ -133,7 +133,7 @@
       "category": "Book",
       "link": "https://archive.org/details/kraftwerk-future-music-from-germany-by-uwe-schutte",
       "description": "Schütte sees Kraftwerk's music as “a contribution to the political, cultural and moral rebuilding of Germany” after the second world war.",
-      "image": "https://www.dropbox.com/scl/fi/25d5euqu09rasbc4mxxfw/2020_uweSh-tte_kraftwerkFutureMusicFromGermany.png?rlkey=v7793l2368h4sh2zzpeuecwwa&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2020_uweSh%C3%BCtte_kraftwerkFutureMusicFromGermany.png?raw=true"
     },
     {
       "year": "2020",
@@ -142,7 +142,7 @@
       "category": "Article",
       "link": "https://thecreativelife.net/how-to-create-a-culture/",
       "description": "Article describing the importance of dance music, ambient music and underground culture. ",
-      "image": "https://www.dropbox.com/scl/fi/m59mrp8nlrxv1hpre3mfp/2020_sherylGarratt.jpg?rlkey=zx0gl9g4r596jmiucd4aapjl1&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2020_sherylGarratt.jpg?raw=true"
     },
     {
       "year": "2020",
@@ -151,7 +151,7 @@
       "category": "Article",
       "link": "https://jointhefuture.net/2020/09/10/long-read-the-story-of-chill-out/",
       "description": "Article describing chill out music. ",
-      "image": "https://www.dropbox.com/scl/fi/4iie3dyjcfrc0k3w866os/2020_mattanniss_storyOfChillOutMusic.jpg?rlkey=dcs1jfrxku5rk8m35alugvqy5&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2020_mattanniss_storyOfChillOutMusic.jpg?raw=true"
     },
     {
       "year": "2019",
@@ -160,7 +160,7 @@
       "category": "Essay",
       "link": "https://medium.com/@alexbainter/what-ambient-music-means-to-me-adaac4e277c2",
       "description": "Essay describing ambient music.",
-      "image": "https://www.dropbox.com/scl/fi/qihhclmjrwmozwtcv82fw/2019_alexBainter_whatAmbientMusicMeansToMe.png?rlkey=ch7z16q71b4bx76foqkuk1saf&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2019_alexBainter_whatAmbientMusicMeansToMe.png?raw=true"
     },
     {
       "year": "2019",
@@ -169,7 +169,7 @@
       "category": "Essay",
       "link": "https://medium.com/@alexbainter/introduction-to-generative-music-91e00e4dba11",
       "description": "Essay introducing key concepts to generative music. ",
-      "image": "https://www.dropbox.com/scl/fi/p8ra0viy0rksyaddmy2x9/2019_alexBainter_IntroToGenerativeMusic.png?rlkey=1ezo6qh7xvivdtp7kkk2hqbul&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2019_alexBainter_IntroToGenerativeMusic.png?raw=true"
     },
     {
       "year": "2019",
@@ -178,7 +178,7 @@
       "category": "Interview",
       "link": "https://www.youtube.com/watch?v=WTxkLGBkcO0",
       "description": "Interview with Brian Eno on the album Apollo",
-      "image": "https://www.dropbox.com/scl/fi/lg7zx35sqja6rxpgyb9uq/2019_noisey_BrianEnoApollo.png?rlkey=sfu31lbenorr0shydfo6bwgfv&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2019_noisey_BrianEnoApollo.png?raw=true"
     },
     {
       "year": "2019",
@@ -187,7 +187,7 @@
       "category": "Performance",
       "link": "https://www.youtube.com/watch?v=f_ZZ0vIOdBQ",
       "description": "Autechre live sleep mix. ",
-      "image": "https://www.dropbox.com/scl/fi/y9xgypkfs0zz8glf74f1e/2019_autechre_sleepMix.png?rlkey=0d9dw0noyazlid5z9vax0gbdh&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2019_autechre_sleepMix.png?raw=true"
     },
     {
       "year": "2019",
@@ -196,7 +196,7 @@
       "category": "Performance",
       "link": "https://www.youtube.com/watch?v=CgpLOFunJi4&t=1078s",
       "description": "Live Grouper performance.",
-      "image": "https://www.dropbox.com/scl/fi/tzj4a9b9ka6w0adzxj7vb/2019_grouper_SleepMix.png?rlkey=rx7jyu30g03yoctb5u9rz4uuc&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2019_grouper_SleepMix.png?raw=true"
     },
     {
       "year": "2019",
@@ -205,7 +205,7 @@
       "category": "Article",
       "link": "https://thecreativelife.net/forty-years-of-heaven-and-why-that-matters/",
       "description": "Article about nightclub Heaven.",
-      "image": "https://www.dropbox.com/scl/fi/io0xhlnpove4d0gnzh3qq/2019_sherylGarratt.png?rlkey=qxirpxaamxi5791o33uj5u7k6&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2019_sherylGarratt.png?raw=true"
     },
     {
       "year": "2019",
@@ -214,7 +214,7 @@
       "category": "Website",
       "link": "https://radioamnion.net/",
       "description": "RADIO AMNION: SONIC TRANSMISSIONS OF CARE IN OCEANIC SPACE is a multi-year sound art project for the waters of Earth, commissioning and relaying new compositions by contemporary artists more than 2kms deep with/in the Pacific Ocean. During each full moon, far beyond human perception, the abyssal waters of Cascadia Basin resonate with the deep frequencies and voices of invited artists. All transmissions are relayed in the sea through a submerged neutrino telescope experiment’s calibration system and available here online only during the three days of each full moon. Register to be notified for our next transmissions.",
-      "image": "https://www.dropbox.com/scl/fi/q1wdusif5k3y2ym3aktsd/2019_joelThompson_RadioAmnion.png?rlkey=klr8emelxbz9f3ek6ia9qp54l&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2019_joelThompson_RadioAmnion.png?raw=true"
     },
     {
       "year": "2019",
@@ -223,7 +223,7 @@
       "category": "Essay",
       "link": "http://www.sothismedias.com/home/the-lunar-phases-of-st-giga",
       "description": "Essay describing the techniques of programing for St GIGA. A Japanese ambient radio station. ",
-      "image": "https://www.dropbox.com/scl/fi/8sx1jiev1cjsvtg649e7n/2019_justinPatric.png?rlkey=ul83h3neys9syag0a62nxs9xc&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2019_justinPatric.png?raw=true"
     },
     {
       "year": "2018",
@@ -232,7 +232,7 @@
       "category": "Book",
       "link": "https://www.semcoop.com/ocean-sound-ambient-sound-and-radical-listening-age-communication",
       "description": "In depth book on Ambient Music",
-      "image": "https://www.dropbox.com/scl/fi/fymdevvsv4kil9cf0k0qk/2018_davidToop_OceanOfSound.jpg?rlkey=7sjz5edgkdlqzn731wawvstyw&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2018_davidToop_OceanOfSound.jpg?raw=true"
     },
     {
       "year": "2018",
@@ -241,7 +241,7 @@
       "category": "Film",
       "link": "https://www.youtube.com/watch?v=fgG-QiChiA8",
       "description": "Film on the context of legendary band, Drexia.",
-      "image": "https://www.dropbox.com/scl/fi/i9k5pvtifzf31yivjwdao/2018_residentAdvisor_WhyDrexiyaTookDetroitTechnoUnderwater.png?rlkey=8vr28qb7c0q42hvo60uri0w5p&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2018_residentAdvisor_WhyDrexiyaTookDetroitTechnoUnderwater.png?raw=true"
     },
     {
       "year": "2018",
@@ -250,7 +250,7 @@
       "category": "Album",
       "link": "https://grouper.bandcamp.com/album/grid-of-points",
       "description": "Ambient album from Grouper.",
-      "image": "https://www.dropbox.com/scl/fi/4dct6ygvxxwwc8ap7nfgg/2018_grouper_gridOfPoints.jpg?rlkey=wu3mf78atwbxt8ds5wnfmdpn6&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2018_grouper_gridOfPoints.jpg?raw=true"
     },
     {
       "year": "2018",
@@ -259,7 +259,7 @@
       "category": "Performance",
       "link": "https://www.youtube.com/watch?v=IcdIuXy53gI&t=2s",
       "description": "Mary Latimore live performance.",
-      "image": "https://www.dropbox.com/scl/fi/8aheacxnrk8ms64zmw864/2018_ResidentAdvisor_MaryLattimore.png?rlkey=mk0dej0x3aoa0kdunrvj1jkry&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2018_ResidentAdvisor_MaryLattimore.png?raw=true"
     },
     {
       "year": "2018",
@@ -268,7 +268,7 @@
       "category": "Film",
       "link": "https://www.youtube.com/watch?v=wdhzVFZlKsM",
       "description": "Exploring the electronic sound of the Moog One, and the transformational power of Listening, the film features some of the world’s most accomplished and creative artists: Jeff Bhasker, Suzanne Ciani, Chick Corea, Mike Dean, Robert Glasper, Dick Hyman, Dev Hynes, Mark Mothersbaugh, Mark Ronson, Ryuichi Sakamoto, Dr. Lonnie Smith, and Paris Strother.",
-      "image": "https://www.dropbox.com/scl/fi/a2nfbbfbbef1n5dkmnkcb/2018_moogOne_meditationOnListening.png?rlkey=17nje06ly1pqbmv3oznbqhhgd&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2018_moogOne_meditationOnListening.png?raw=true"
     },
     {
       "year": "2018",
@@ -277,7 +277,7 @@
       "category": "Mix",
       "link": "https://soundcloud.com/dr-atmo/helix-tranceleberation",
       "description": "Ambient mix by dr.atmo",
-      "image": "https://www.dropbox.com/scl/fi/9yo81ko3uitgt037cocpo/2018_DrAtmo.png?rlkey=6jbvar3yycacf1es3vxxdz995&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2018_DrAtmo.png?raw=true"
     },
     {
       "year": "2017",
@@ -286,7 +286,7 @@
       "category": "Performance",
       "link": "https://www.youtube.com/watch?v=g5bj8sO2-WY&t=22s",
       "description": "Live performance from Pauline Oliveros.",
-      "image": "https://www.dropbox.com/scl/fi/3bmhk9fkgw78hd7imztca/2017_PaulineOliveros_TuningMeditations.png?rlkey=x6dscz9dacqikxc388po6l0ih&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2017_PaulineOliveros_TuningMeditations.png?raw=true"
     },
     {
       "year": "2017",
@@ -295,7 +295,7 @@
       "category": "Research Paper",
       "link": "https://pubs.aip.org/asa/jasa/article/142/3/1332/613146/Cave-acoustics-in-prehistory-Exploring-the",
       "description": "Research paper exploring the topics of acoustics in caves.",
-      "image": "https://www.dropbox.com/scl/fi/48h5zaj8hvkihm2tq8nm5/2017_brunoFazenda_caveAcoustics.png?rlkey=4a8pi963lija7xblaqn9ff6ey&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2017_brunoFazenda_caveAcoustics.png?raw=true"
     },
     {
       "year": "2017",
@@ -304,7 +304,7 @@
       "category": "Essay",
       "link": "https://ra.co/features/2984",
       "description": "Article describing John Hassell's 'fourth world' and how it relates to the 21st century.",
-      "image": "https://www.dropbox.com/scl/fi/f8x2z75rzj4zltp8qwth3/2017_johnHath.png?rlkey=w1kzxjzkfwfg6sj8edevzbxpe&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2017_johnHath.png?raw=true"
     },
     {
       "year": "2016",
@@ -313,7 +313,7 @@
       "category": "Film, Performance",
       "link": "https://www.youtube.com/watch?v=lHMCE-c8sUc",
       "description": "Max RIchter's Sleep performance.",
-      "image": "https://www.dropbox.com/scl/fi/fpxuv2zairq5kwh5qsevh/2016_maxRichter_Sleep.png?rlkey=c91vrn8mcfofoj22z5uvh9m7x&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2016_maxRichter_Sleep.png?raw=true"
     },
     {
       "year": "2015",
@@ -322,7 +322,7 @@
       "category": "Film",
       "link": "https://www.youtube.com/watch?v=Em3XplqnoF4",
       "description": "David Lynch explains Transcendental Meditation",
-      "image": "https://www.dropbox.com/scl/fi/fmjyg78svwvu368fz6t9p/2015_davidLynch_DLexplainsTM.png?rlkey=nv5ad33dpk6ry042gxds4h15n&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2015_davidLynch_DLexplainsTM.png?raw=true"
     },
     {
       "year": "2015",
@@ -331,7 +331,7 @@
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=wfErixxrKdI",
       "description": "Album originally recorded for installations in 1988.",
-      "image": "https://www.dropbox.com/scl/fi/91c0zp6lptziadtwi8ppi/1993_brianEno_neroli.jpg?rlkey=bhohjrxt3wmnnpi8r27jjygw0&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1993_brianEno_neroli.jpg?raw=true"
     },
     {
       "year": "2014",
@@ -340,7 +340,7 @@
       "category": "Film",
       "link": "https://www.youtube.com/watch?v=31kNM4YR6AM&t=2s",
       "description": "2014 film from Paul Clipson",
-      "image": "https://www.dropbox.com/scl/fi/jvrw0g7xxqd2m7sjdvr9j/2014_paulClipson_hypnosisDisplay.png?rlkey=em2vxuc4lwaobpyieh56bmt8v&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2014_paulClipson_hypnosisDisplay.png?raw=true"
     },
     {
       "year": "2014",
@@ -349,7 +349,7 @@
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=GJgXdSVFnJE",
       "description": "Grouper's 2014 album Ruins",
-      "image": "https://www.dropbox.com/scl/fi/fsl4vs8ge3ptvrwhurirb/2014-grouper-ruins.jpeg?rlkey=xmvljg9uezjtnwhz4gy0ou89i&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2014-grouper-ruins.jpeg?raw=true"
     },
     {
       "year": "2014",
@@ -358,7 +358,7 @@
       "category": "Album",
       "link": "https://grouper.bandcamp.com/album/dragging-a-dead-deer",
       "description": "Grouper's 2014 album Dragging a Dead Deer Up a Hill",
-      "image": "https://www.dropbox.com/scl/fi/u8mdrr35kbxnndff84zg2/2014_grouper_draggingADeadDeerUpaHill.jpg?rlkey=b4sdu5rnkrc7kgcadkfu6sfde&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2014_grouper_draggingADeadDeerUpaHill.jpg?raw=true"
     },
     {
       "year": "2014",
@@ -367,7 +367,7 @@
       "category": "Album",
       "link": "https://vladislavdelay.bandcamp.com/album/visa",
       "description": "Album from Vladislav Delay",
-      "image": "https://www.dropbox.com/scl/fi/cc30y6riv7yvf0psebao8/2014_vladislavDelay_Visa.jpg?rlkey=41te6c0mlq404uzgxpw4eh8bf&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2014_vladislavDelay_Visa.jpg?raw=true"
     },
     {
       "year": "2013",
@@ -376,7 +376,7 @@
       "category": "Album",
       "link": "https://huercos.bandcamp.com/album/colonial-patterns",
       "description": "Album from Huerco S.",
-      "image": "https://www.dropbox.com/scl/fi/jt85i8r6i1p3d985o9dkk/2013_huercoSColonialPatterns.jpg?rlkey=zmwnfxu8ygqtdbqfkft648b9z&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2013_huercoSColonialPatterns.jpg?raw=true"
     },
     {
       "year": "2013",
@@ -385,7 +385,7 @@
       "category": "Album",
       "link": "https://timhecker.bandcamp.com/album/virgins-2",
       "description": "Album from Tim Hecker",
-      "image": "https://www.dropbox.com/scl/fi/sonags9gm1esm1xiw72n2/2013_timHecker_virgins.jpg?rlkey=6dpwyx6u5yp1zf0pcli6y0nju&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2013_timHecker_virgins.jpg?raw=true"
     },
     {
       "year": "2013",
@@ -394,7 +394,7 @@
       "category": "Film",
       "link": "https://www.youtube.com/watch?v=NfnVoJ2Jt74",
       "description": "A film about Laraaji.",
-      "image": "https://www.dropbox.com/scl/fi/9aejxekgd9atvzvzkz704/2013_chrisHall_eternityOrBust.png?rlkey=p79gr8i68flhh75jpid2100da&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2013_chrisHall_eternityOrBust.png?raw=true"
     },
     {
       "year": "2013",
@@ -403,7 +403,7 @@
       "category": "Interview",
       "link": "https://www.youtube.com/watch?v=XzktEXmKYCY",
       "description": "Laugter workshop with Laraaji.",
-      "image": "https://www.dropbox.com/scl/fi/7kkqqzcjfbhjtytb92m4q/2013_laughterWorkshop_laraajiAndDanielBlumberg.png?rlkey=msb2usv9d97uoiiv0m44ie95w&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2013_laughterWorkshop_laraajiAndDanielBlumberg.png?raw=true"
     },
     {
       "year": "2013",
@@ -412,7 +412,7 @@
       "category": "Performance",
       "link": "https://youtu.be/Pl-otdM6OHc?si=gwlO2iZUQMn6DGzR",
       "description": "From the album Perhaps (2013). Recorded live December 8, 2006 at a memorial event for James Tenney at California Institute of the Arts.",
-      "image": "https://www.dropbox.com/scl/fi/1pnigp0tkpt9gzooqzsvh/2013_haroldBudd_templar.jpg?rlkey=enojpzlxjctsbrslq3cnx81u2&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2013_haroldBudd_templar.jpg?raw=true"
     },
     {
       "year": "2012",
@@ -421,7 +421,7 @@
       "category": "Album",
       "link": "https://leegamble.bandcamp.com/album/models",
       "description": "Album from Lee Gamble",
-      "image": "https://www.dropbox.com/scl/fi/2qoqfzetaqyge4j0rw9kh/2012_leeGamble_diversions.jpg?rlkey=qovw4x2hrwg1ogrjlexpq1g0l&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2012_leeGamble_diversions.jpg?raw=true"
     },
     {
       "year": "2012",
@@ -430,7 +430,7 @@
       "category": "Album",
       "link": "https://wolfgangvoigt.bandcamp.com/album/r-ckverzauberung-6",
       "description": "Album from Wolfgang Voigt",
-      "image": "https://www.dropbox.com/scl/fi/jqyf7r2mozwscta9p8u6f/2012_wolfgangVoigt_R-ckverzauberung-6.jpg?rlkey=hhnv1fewo5qe5yx2d3j0w2wdf&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2012_wolfgangVoigt_R%E2%80%8B%C3%BC%E2%80%8Bckverzauberung%206.jpg?raw=true"
     },
     {
       "year": "2011",
@@ -439,7 +439,7 @@
       "category": "Album",
       "link": "https://timhecker.bandcamp.com/album/ravedeath-1972",
       "description": "Album from Tim Hecker",
-      "image": "https://www.dropbox.com/scl/fi/y2crxwnlbbdy88hwmou0d/2011_timHecker_ravedeath72.jpg?rlkey=8x2yzz1j6szdsvsc447i1mnie&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2011_timHecker_ravedeath72.jpg?raw=true"
     },
     {
       "year": "2011",
@@ -448,7 +448,7 @@
       "category": "Album",
       "link": "https://oneohtrixpointnever.bandcamp.com/album/replica",
       "description": "Album from Oneohtrix Point Never",
-      "image": "https://www.dropbox.com/scl/fi/rduet4j5xvqdmj9zz0qk1/2011_oneohtrixPointNever_replica.jpg?rlkey=js99anugog26v34bj0k7a61bf&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2011_oneohtrixPointNever_replica.jpg?raw=true"
     },
     {
       "year": "2011",
@@ -457,7 +457,7 @@
       "category": "Album",
       "link": "https://thecaretaker.bandcamp.com/album/an-empty-bliss-beyond-this-world",
       "description": "Album from The Caretaker",
-      "image": "https://www.dropbox.com/scl/fi/njp6eh51we62t3kl4630i/2011_theCartaker_anEmptyBlissBeyondThisWorld.jpg?rlkey=vcuvrkrzhzdw9tac856asx45g&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2011_theCartaker_anEmptyBlissBeyondThisWorld.jpg?raw=true"
     },
     {
       "year": "2011",
@@ -466,7 +466,7 @@
       "category": "Album",
       "link": "https://juliannabarwick.bandcamp.com/album/the-magic-place",
       "description": "Album from Juliana Barwick",
-      "image": "https://www.dropbox.com/scl/fi/ur2qtauh2t58g562lju64/2011_juliannaBarwick_theMagicPlace.jpg?rlkey=n1b6vz6aeqkcgewuc9t96vetm&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2011_juliannaBarwick_theMagicPlace.jpg?raw=true"
     },
     {
       "year": "2011",
@@ -475,7 +475,7 @@
       "category": "Album",
       "link": "https://grouper.bandcamp.com/album/a-i-a-alien-observer",
       "description": "Album from Grouper",
-      "image": "https://www.dropbox.com/scl/fi/3jaz5xle0dn8flx25mcb5/2011_grouper_aia_alienObserver.jpg?rlkey=swpzvc26rrs6pb0eirtz3cr4f&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2011_grouper_aia_alienObserver.jpg?raw=true"
     },
     {
       "year": "2011",
@@ -484,7 +484,7 @@
       "category": "Mix",
       "link": "https://www.mixcloud.com/secretthirteen/higher-intelligence-agency-secret-thirteen-mix-121/",
       "description": "Old-fashioned and relaxing mix by Higher Intelligence Agency, which connects even confronting souls.",
-      "image": "https://www.dropbox.com/scl/fi/xmsy76bfz49m1yedph78g/2011_higherIntelligenceAgency.jpg?rlkey=oj5oyf5rnvlbtco0bu4oqglls&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2011_higherIntelligenceAgency.jpg?raw=true"
     },
     {
       "year": "2010",
@@ -493,7 +493,7 @@
       "category": "Film",
       "link": "https://vimeo.com/277160978",
       "description": "Zas Films",
-      "image": "https://www.dropbox.com/scl/fi/fq7r14wje6zfaivpyfx8c/2010_ruediGerber_breathMadeBeautiful.png?rlkey=4lwfcgujivgin8jmvj4zvxdb7&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2010_ruediGerber_breathMadeBeautiful.png?raw=true"
     },
     {
       "year": "2009",
@@ -502,7 +502,7 @@
       "category": "Album",
       "link": "https://oneohtrixpointnever.bandcamp.com/album/rifts",
       "description": "Album from Oneohtrix Point Never",
-      "image": "https://www.dropbox.com/scl/fi/4njrt3bywy35aqc262jp6/2009_oneohtrixPointNever_rifts.jpg?rlkey=8vkhvxzt1e3pmvwhsk56peff5&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2009_oneohtrixPointNever_rifts.jpg?raw=true"
     },
     {
       "year": "2008",
@@ -511,7 +511,7 @@
       "category": "Film",
       "link": "https://www.youtube.com/watch?v=4yFaMsUawi4",
       "description": "The song of the dunes introduced by Stéphane Douady. Since Marco Polo this strange sounds that can be heard in some deserts fanscinates. ",
-      "image": "https://www.dropbox.com/scl/fi/kumdelb52vk1xkxmlmln8/2008_stephane.png?rlkey=6x32m70nqr0ghils10rowtfto&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2008_stephane.png?raw=true"
     },
     {
       "year": "2006",
@@ -520,7 +520,7 @@
       "category": "Album",
       "link": "https://timhecker.bandcamp.com/album/harmony-in-ultraviolet",
       "description": "Album by Tim Hecker",
-      "image": "https://www.dropbox.com/scl/fi/uylujzrxc1gxjhq4f19tn/2006_timHecker_harmonyInUltralight.jpg?rlkey=79fwnhxbkftt1rfmcsjl4plpc&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2006_timHecker_harmonyInUltralight.jpg?raw=true"
     },
     {
       "year": "2006",
@@ -529,7 +529,7 @@
       "category": "Performance",
       "link": "John Cage - 4'33\" by David Tudor - YouTube",
       "description": "David Tudor performs John Cage's 4'33 piece on silence.",
-      "image": "https://www.dropbox.com/scl/fi/uylujzrxc1gxjhq4f19tn/2006_timHecker_harmonyInUltralight.jpg?rlkey=79fwnhxbkftt1rfmcsjl4plpc&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2006_tudor.png?raw=true"
     },
     {
       "year": "2005",
@@ -538,7 +538,7 @@
       "category": "Album",
       "link": "https://eluvium.bandcamp.com/album/talk-amongst-the-trees",
       "description": "Album by Eluvium",
-      "image": "https://www.dropbox.com/scl/fi/bqjkc4kwbwcqn4sl137cd/2005_eluvium_talkAmongstThetrees.jpg?rlkey=uwh7gbyt7f2pq3yi966zwhfk3&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2005_eluvium_talkAmongstThetrees.jpg?raw=true"
     },
     {
       "year": "2005",
@@ -547,7 +547,7 @@
       "category": "Album",
       "link": "https://din.org.uk/album/yolo-din22",
       "description": "Tetsu Inoue's ninth solo album, \"Yolo\"",
-      "image": "https://www.dropbox.com/scl/fi/l7ic5vwifdnbxi9d4zpds/2005_yolo.jpeg?rlkey=bed34tyo91741866j0ui83h23&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2005_yolo.jpeg?raw=true"
     },
     {
       "year": "2004",
@@ -556,7 +556,7 @@
       "category": "Publication",
       "link": "https://www.ubuweb.com/historical/young/young_selected.pdf",
       "description": "Selected writings from La Monte Young and Marian Zazeela",
-      "image": "https://www.dropbox.com/scl/fi/x6bp381td68a2i6bwqlgv/2004_lamonteyoung.png?rlkey=yq20uvhq22skmsk10ujua8fsr&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2004_lamonteyoung.png?raw=true"
     },
     {
       "year": "2002",
@@ -565,7 +565,7 @@
       "category": "Album",
       "link": "https://keithfullertonwhitman.bandcamp.com/album/playthroughs",
       "description": "Album by Keith Fullerton Whitman",
-      "image": "https://www.dropbox.com/scl/fi/hmhl10duvq36tz2vajsi3/2002_keithFullertonWhitman_playthroughs.jpg?rlkey=306t888eejie9dc2w189llpka&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2002_keithFullertonWhitman_playthroughs.jpg?raw=true"
     },
     {
       "year": "2002",
@@ -574,7 +574,7 @@
       "category": "Interview",
       "link": "https://www.youtube.com/watch?v=C-LoZho4HC8",
       "description": "Interview with Drexia",
-      "image": "https://www.dropbox.com/scl/fi/vaq8dptzss4v0m6akbiqn/2002_drexiya_interview.png?rlkey=110hyi7kzy0nu30o5dychdfva&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2002_drexiya_interview.png?raw=true"
     },
     {
       "year": "2002",
@@ -583,7 +583,7 @@
       "category": "Album",
       "link": "https://ekkehardehlers.bandcamp.com/album/ekkehard-ehlers-plays",
       "description": "Album from Ekkehard Ehlers",
-      "image": "https://www.dropbox.com/scl/fi/sfrecx5tbt60x9khtck4a/2002_ekkeh.jpeg?rlkey=n14osv7bz1wddgtw3etiiadd5&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2002_ekkeh.jpeg?raw=true"
     },
     {
       "year": "2001",
@@ -592,7 +592,7 @@
       "category": "Album, Performance",
       "link": "https://www.youtube.com/watch?v=qYOr8TlnqsY",
       "description": "Performance from William Basinski",
-      "image": "https://www.dropbox.com/scl/fi/7qly4inecexsn4i0hcszc/2001_williamBasinski_d-p1.1.jpg?rlkey=wvl6lk2ohkfh0xy6fbukryaui&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2001_williamBasinski_d%7Cp1.1.jpg?raw=true"
     },
     {
       "year": "2001",
@@ -601,7 +601,7 @@
       "category": "Album",
       "link": "https://fenneszemego.bandcamp.com/album/endless-summer",
       "description": "Album from Fennesz",
-      "image": "https://www.dropbox.com/scl/fi/bkytk7hc6fcjqpty7m8mm/2001_Fennesz_endlessSummer.jpg?rlkey=4y5wwvpd7lbn4vj9875whrzxz&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2001_Fennesz_endlessSummer.jpg?raw=true"
     },
     {
       "year": "2001",
@@ -610,7 +610,7 @@
       "category": "Compilation",
       "link": "https://www.youtube.com/watch?v=1Tfl6Aw42Zw",
       "description": "The Orb - The BBC Sessions 1989-2001 (Full Compilation)",
-      "image": "https://www.dropbox.com/scl/fi/k338ric0c3thl2hsaf1pa/2001_theOrb_bbcSessions.png?rlkey=8ex61jh83ypzg4xwzd9gwft7g&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2001_theOrb_bbcSessions.png?raw=true"
     },
     {
       "year": "2000",
@@ -619,7 +619,7 @@
       "category": "album",
       "link": "https://kompakt-gas.bandcamp.com/album/pop",
       "description": "Album from GAS",
-      "image": "https://www.dropbox.com/scl/fi/h95vtg6uvv7ldhnvgdefp/2000_gas.jpeg?rlkey=814hvco1quk5zkzwzlpigdezv&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/2000_gas.jpeg?raw=true"
     },
     {
       "year": "2000",
@@ -627,8 +627,7 @@
       "title": "The Story Of '4'33\"'",
       "category": "Essay",
       "link": "https://www.npr.org/2000/05/08/1073885/4-33",
-      "description": "Essay on John Cage's piece 4'33.",
-      "image": "https://www.dropbox.com/scl/fi/23aytul9yddojjps6nnnf/2000_cage.webp?rlkey=7dlow0126tdyxxw0u8lousdfi&dl=0"
+      "description": "Essay on John Cage's piece 4'33."
     },
     {
       "year": "1999",
@@ -637,7 +636,7 @@
       "category": "Album",
       "link": "https://lamonteyoung.bandcamp.com/album/the-tamburas-of-pandit-pran-nath",
       "description": "Album from Lamonte Young",
-      "image": "https://www.dropbox.com/scl/fi/5hpjewzfr4s1wx89xmmif/1999_lamonteYoung_tamburasOfPan.jpg?rlkey=y4w8rywlthq510mhqvju6eu08&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1999_lamonteYoung_tamburasOfPan.jpg?raw=true"
     },
     {
       "year": "1999",
@@ -646,7 +645,7 @@
       "category": "Art",
       "link": "http://ascentstage.com/aeolian/images.html",
       "description": "Research with the initial vision was to control digital instruments through gestures, much like a conductor, leading to the idea of creating a MIDI version of the Æolian harp—a wind-activated instrument. This concept sought to bridge nature and technology, echoing Heidegger's views on technology as a mode of revealing, allowing the wind's inherent patterns to become audibly evident. However, technical limitations prevented precise detection of the harp strings' vibrations by wind, resulting in a redesigned installation that combined elements of sculpture, wind vane, wind chime, and equipment rack to capture wind patterns.",
-      "image": "https://www.dropbox.com/scl/fi/eq7zcrpx9pbj7u7fe18vr/1999_aeolian.jpeg?rlkey=2wtxdappq34nc772l787cih5n&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1999_aeolian.jpeg?raw=true"
     },
     {
       "year": "1998",
@@ -655,7 +654,7 @@
       "category": "Album",
       "link": "https://windyandcarl.bandcamp.com/album/depths",
       "description": "Album from Windy & Carl",
-      "image": "https://www.dropbox.com/scl/fi/1ssmnyqqjn7jbeijfbdb2/1998_windy.jpeg?rlkey=5193vdcd0fih4fgq9l9a2oaxr&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1998_windy.jpeg?raw=true"
     },
     {
       "year": "1998",
@@ -664,7 +663,7 @@
       "category": "Essay",
       "link": "http://entersection.com/posts/1074-robert-fripp-on-music-as-a-language-of-being",
       "description": "Essay from Robert Frip",
-      "image": "https://www.dropbox.com/scl/fi/zsim8tiyfv5b4t1c1krqh/1998_robertFripp_aLanguageOfBeing.jpg?rlkey=rkhx42lkulj5yilypw5xftbss&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1998_robertFripp_aLanguageOfBeing.jpg?raw=true"
     },
     {
       "year": "1997",
@@ -673,7 +672,7 @@
       "category": "Album",
       "link": "https://oval.bandcamp.com/album/94diskont-remastered-2013-reissue",
       "description": "Album from Oval",
-      "image": "https://www.dropbox.com/scl/fi/7c7br6vlhvkpfafrmtgsz/1997_oval_94diskount.jpg?rlkey=01kqw5aa8ydcqg7plnd92mx7p&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1997_oval_94diskount.jpg?raw=true"
     },
     {
       "year": "1997",
@@ -682,7 +681,7 @@
       "category": "Album",
       "link": "https://biosphere.bandcamp.com/album/substrata",
       "description": "Album from Biosphere",
-      "image": "https://www.dropbox.com/scl/fi/6oofpyy5lhkiiovyoon34/1997_bioshere_substrata.jpg?rlkey=uge95v6njay5v1rcj4mu6tpkc&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1997_bioshere_substrata.jpg?raw=true"
     },
     {
       "year": "1996",
@@ -691,7 +690,7 @@
       "category": "Interview",
       "link": "https://park.org/Japan/Theme/sjapan/interview/kawasaki/profile/kawa_pro.html",
       "description": "Interview with Yoshihiro Kawasaki, Japanese sound artist and composer.",
-      "image": "https://www.dropbox.com/scl/fi/07hajuvt858wojb0md9x5/1996_yoshihiro.jpeg?rlkey=vmch1b9v7q9husqmrqta36wmy&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1996_yoshihiro.jpeg?raw=true"
     },
     {
       "year": "1996",
@@ -700,7 +699,7 @@
       "category": "Album",
       "link": "https://infraction.bandcamp.com/album/world-receiver",
       "description": "Ambient album",
-      "image": "https://www.dropbox.com/scl/fi/q9fwz9zeaghu5secvvmyj/1996_tetsu.jpeg?rlkey=n9igpodtqxwtb7t3jielpjv6q&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1996_tetsu.jpeg?raw=true"
     },
     {
       "year": "1995",
@@ -709,7 +708,7 @@
       "category": "Album",
       "link": "http://www.ambientexotica.com/ambrev084_theorb_ot/",
       "description": "Album from The Orb",
-      "image": "https://www.dropbox.com/scl/fi/l85ad5gnhiof4m8pakklz/1995_theOrb_OrbusTerrarum.png?rlkey=xy23s2yk1ymd790pizqdrp77m&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1995_theOrb_OrbusTerrarum.png?raw=true"
     },
     {
       "year": "1995",
@@ -718,7 +717,7 @@
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=Czqr-uCAD3I",
       "description": "Warp Records",
-      "image": "https://www.dropbox.com/scl/fi/147y5qvcksrjtxvdwiobm/1995_theblackdog.jpg?rlkey=a73sn32o3wvvweidn6q2pb50d&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1995_theblackdog.jpg?raw=true"
     },
     {
       "year": "1994",
@@ -727,7 +726,7 @@
       "category": "Song",
       "link": "https://scanner.bandcamp.com/album/mass-observation-expanded",
       "description": "Four tracks, only two of which incorporate snippets of cordless chatter (the other two are fast breakbeat-type techno). Rimbaud is at his best on the sparwling first track, where the voices accentuate his own contributions rather than the other way around.",
-      "image": "https://www.dropbox.com/scl/fi/y0431j4ian0ew1ff201gp/1994_scannerMassObservation.jpg?rlkey=mjykn2433helbdca9t1jzt0nn&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1994_scannerMassObservation.jpg?raw=true"
     },
     {
       "year": "1994",
@@ -736,7 +735,7 @@
       "category": "Compolation",
       "link": "https://www.youtube.com/watch?v=PG3expsvVnI",
       "description": "Ambient 4: Isolationism (compilation) 1994 Virgin Records",
-      "image": "https://www.dropbox.com/scl/fi/svj2mlk3ip5vw29fp9mgk/1994_ambient4.jpg?rlkey=asw7e0uo5hdc2yuwo8vsh6yzb&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1994_ambient4.jpg?raw=true"
     },
     {
       "year": "1994",
@@ -745,7 +744,7 @@
       "category": "Song",
       "link": "https://www.youtube.com/watch?v=M0a1Vvgfiu8",
       "description": "Release Date: 1994.\nLabel: Virgin Records.\nGenre: Ambient/Chillout.",
-      "image": "https://www.dropbox.com/scl/fi/3573rmqixhniu577ua8c3/1994_thFutureSoundOfLondon.png?rlkey=16dgtzkhjggjp402z7gf5r4e7&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1994_thFutureSoundOfLondon.png?raw=true"
     },
     {
       "year": "1994",
@@ -754,7 +753,7 @@
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=i2mC0prsNoE",
       "description": "\"St. GIGA Sound of the Earth Series\"\n\"Ambient Soundscape 12: The Place Closest to the Stars\"",
-      "image": "https://www.dropbox.com/scl/fi/tf4z03lwnj85n7hbf9rso/1994_stgiga.jpeg?rlkey=hntnbxntc0tk0mudbg56n1n2z&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1994_stgiga.jpeg?raw=true"
     },
     {
       "year": "1994",
@@ -763,7 +762,7 @@
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=Qk59nz_RfjA",
       "description": "Full ambient album",
-      "image": "https://www.dropbox.com/scl/fi/macjuybggyq8hues5u8b8/1994_oval.jpeg?rlkey=mfe1lmghqo2ti8rr0o5dlbo7y&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1994_oval.jpeg?raw=true"
     },
     {
       "year": "1993",
@@ -772,7 +771,7 @@
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=rWEI9y6PElo",
       "description": "Album from Takashi Kokubo",
-      "image": "https://www.dropbox.com/scl/fi/n6sagmc55cyx79hb4xvl4/1993_takashiKokubo_Oasis.jpg?rlkey=mb9x1c466kxpxm9pealtmmg2h&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1993_takashiKokubo_Oasis.jpg?raw=true"
     },
     {
       "year": "1993",
@@ -781,7 +780,7 @@
       "category": "Album",
       "link": "https://brianenoallsaints.bandcamp.com/album/neroli-thinking-music-part-iv-expanded-edition",
       "description": "Album from Brian Eno",
-      "image": "https://www.dropbox.com/scl/fi/91c0zp6lptziadtwi8ppi/1993_brianEno_neroli.jpg?rlkey=bhohjrxt3wmnnpi8r27jjygw0&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1993_brianEno_neroli.jpg?raw=true"
     },
     {
       "year": "1993",
@@ -790,7 +789,7 @@
       "category": "Album",
       "link": "https://warprecords.bandcamp.com/album/electro-soma",
       "description": "Electro-Soma is the debut studio album by British electronic music duo B12. It was released on Warp on 29 March 1993 and is the fourth release in Warp's Artificial Intelligence series.",
-      "image": "https://www.dropbox.com/scl/fi/y4nxjv5ifpk4besb1r3nl/1993_B12.jpg?rlkey=xt7xrq3h0f0tdt5h4r55wonka&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1993_B12.jpg?raw=true"
     },
     {
       "year": "1993",
@@ -799,7 +798,7 @@
       "category": "Book",
       "link": "https://archive.org/details/songfromforestmy00sarn_1",
       "description": "Drawn to the heart of Africa by a song, Sarno began his journey with little more than a one-way ticket, some recording equipment, and a native notion about Pygmy life.",
-      "image": "https://www.dropbox.com/scl/fi/ugd602hdo81x9jt153a9x/1992_songs.jpeg?rlkey=ez7wg0p9sjaxi61nb4wyifw82&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1992_songs.jpeg?raw=true"
     },
     {
       "year": "1992",
@@ -808,7 +807,7 @@
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=Xw5AiRVqfqk",
       "description": "Album from Aphex twin",
-      "image": "https://www.dropbox.com/scl/fi/yz88nttr074yhf9e1aik6/1992_aphexTwin_selectedAmbientWorks.jpg?rlkey=a04aq7chctrw0szr3ashcnck4&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1992_aphexTwin_selectedAmbientWorks.jpg?raw=true"
     },
     {
       "year": "1992",
@@ -817,7 +816,7 @@
       "category": "Essay",
       "link": "http://www.moredarkthanshark.org/feature_opal_info_22-1992.html#PERFUME",
       "description": "Eno recounts a deep fascination with the elusive world of scent, beginning from art college days to discovering ancient aromatic substances in old pharmacies. Despite attempts at concocting unique fragrances and understanding their intricacies, they find that the realm of smell lacks a definitive language for precise description, much like the challenges in describing modern sound in classical musical terms. This exploration of scent parallels their experiences in sound recording, highlighting the complexities and mysteries of both worlds.",
-      "image": "https://www.dropbox.com/scl/fi/fqjs2h62jnhqe29dhtafo/1992_brianEno_theFutureWillBeLikePerfume.jpg?rlkey=9m7wf67an6n6ulybzlsm11ilx&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1992_brianEno_theFutureWillBeLikePerfume.jpg?raw=true"
     },
     {
       "year": "1992",
@@ -826,7 +825,7 @@
       "category": "Lecture",
       "link": "https://www.youtube.com/watch?v=eobYZ6Pd8dY",
       "description": "This audience audio recording of Eno's famous 1992 lecture.",
-      "image": "https://www.dropbox.com/scl/fi/tge8a8vtbpsukls47qpm5/1992_brianEno_perfumeDefence_Bowie.png?rlkey=l8rw2n23o93qhno2ppshnnrxc&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1992_brianEno_perfumeDefence_Bowie.png?raw=true"
     },
     {
       "year": "1992",
@@ -835,7 +834,7 @@
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=acJ6qw0k6FA",
       "description": "Takashi Kokubo (小久保隆) released ten albums over the course of 1992-93 in what is called the \"Ion Series\". These ten albums were released in two five-album sub-series, one in 1992 and one in 1993. The first sub-series, released in 1992, is titled 「都市生活者へ送る音風景」 or \"Sound Scenery for City People\". This album is part three of the first sub-series, making it the third album in the Ion Series.",
-      "image": "https://www.dropbox.com/scl/fi/sx7xp54em6aa72xsrdhzz/1992_takashiKokubo_Barcelona.png?rlkey=u19jb8l2l40pkvit8u204ut9f&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1992_takashiKokubo_Barcelona.png?raw=true"
     },
     {
       "year": "1992",
@@ -844,7 +843,7 @@
       "category": "Archive",
       "link": "http://www.ravepreservationproject.com/",
       "description": "As the years go by, old rave flyers and rave posters are lost, damaged, thrown away, and recycled. This project is to ensure rave flyers and rave posters are curated and stored in a healthy environment.",
-      "image": "https://www.dropbox.com/scl/fi/7y31yuqpijjrtagy5ifdj/1992_raveFlyersandPosters.png?rlkey=ar5jaxkr1klvwe7egjg66xqtc&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1992_raveFlyersandPosters.png?raw=true"
     },
     {
       "year": "1992",
@@ -853,7 +852,7 @@
       "category": "Song",
       "link": "https://www.youtube.com/watch?v=33Xp3qFRa7A",
       "description": "Evolution - Apollo Records (Division of R&S) 1992",
-      "image": "https://www.dropbox.com/scl/fi/9zot5f5owf3y4rggmyf65/1992_davidMorley.jpeg?rlkey=b9wn5if86fxuao466we3937ze&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1992_davidMorley.jpeg?raw=true"
     },
     {
       "year": "1991",
@@ -862,7 +861,7 @@
       "category": "Album",
       "link": "https://biosphere.bandcamp.com/album/microgravity-reissue-with-bonus-album",
       "description": "Microgravity is the debut studio album by Norwegian electronic musician Geir Jenssen under the stage name Biosphere, released in 1991. The album was at first rejected by SSR, the subsidiary of Nettwerk with whom Jenssen had previously released his music, as \"unmarketable\".",
-      "image": "https://www.dropbox.com/scl/fi/sdf03q5b6dducx4q70rrn/1991_biosphere.jpg?rlkey=ha4ub8c9mrvo2umzff15cjj1y&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1991_biosphere.jpg?raw=true"
     },
     {
       "year": "1991",
@@ -871,7 +870,7 @@
       "category": "Manual",
       "link": "https://archive.org/details/StGigaManual/mode/2up",
       "description": "Manual for the St. Giga Audio Decoder ST-6164. This was used for a St. Giga Japanese satellite audio service. It was also used to connect to the Nintendo Super Famicom Satellaview service.",
-      "image": "https://www.dropbox.com/scl/fi/9a26ozzmfxrp8prgt6twv/1991_stgiga.jpeg?rlkey=0qxiv4mdojq1vdrkqu6chhh7i&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1991_stgiga.jpeg?raw=true"
     },
     {
       "year": "1991",
@@ -880,7 +879,7 @@
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=ECWQAdFjqFg",
       "description": "St.Giga, 90s satellite radio from Japan. \nThis is one of the field recording albums the company released.",
-      "image": "https://www.dropbox.com/scl/fi/2nq7cp3vc1heb3hkhyokw/1990_stgiga.jpg?rlkey=m9066cplx2c6vtxoq48j6c03n&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1990_stgiga.jpg?raw=true"
     },
     {
       "year": "1990",
@@ -889,7 +888,7 @@
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=DVc6bltUL1I",
       "description": "Ambient house album - UK 1990. Production - Jimmy Cauty.",
-      "image": "https://www.dropbox.com/scl/fi/qyd6u4pyqonxj1u0hdmjs/1990_KlfSpace.jpg?rlkey=i6awoasmounht10vx4twhwray&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1990_KlfSpace.jpg?raw=true"
     },
     {
       "year": "1990",
@@ -898,7 +897,7 @@
       "category": "Album",
       "link": "https://www.youtube.com/watch?v=bWebqCRw7o4",
       "description": "THE KLF - Chill Out ( Full Album )",
-      "image": "https://www.dropbox.com/scl/fi/i1o5a4hchoik0kfzaeh5d/1990_theKlfChillOut.jpg?rlkey=7na9lfrp5rnt04yfgasrt28wc&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1990_theKlfChillOut.jpg?raw=true"
     },
     {
       "year": "1990",
@@ -907,7 +906,7 @@
       "category": "Article",
       "link": "http://transpont.blogspot.com/2010/03/telepathic-fish.html",
       "description": "Article on historic ambient club in London. ",
-      "image": "https://www.dropbox.com/scl/fi/rn7nkiybhgp6dik5au6e8/1990_telepathicFish.png?rlkey=iw1qbv26xf9e7kfj7vhb3u7ed&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1990_telepathicFish.png?raw=true"
     },
     {
       "year": "1990",
@@ -916,7 +915,7 @@
       "category": "Film",
       "link": "https://www.youtube.com/watch?v=SYSagw7v4dU",
       "description": "This rare video from the late 1990s features Terrence Parker, Mike Huckaby, Juan Atkins, Ritchie Hawtin, Derrick May, Kevin Saunderson, Carl Craig, Rolando, Jeff Woodward, Gary Koral, Josh Glazer, Jon Ozias, Theorem, DJ Dunebugg, (with special cameo appearances by Mike Grant, Brian Bonds, Don Waxmaster D Smooth, Hugh C, and Todd Weston).",
-      "image": "https://www.dropbox.com/scl/fi/lu2eg9uibtznxbcvy4r4b/1990-detroit.png?rlkey=6nl4zdfc9nff6sxzgt4rpbto6&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1990-detroit.png?raw=true"
     },
     {
       "year": "1990",
@@ -925,7 +924,7 @@
       "category": "Book",
       "link": "https://archive.org/details/spiritualecology00jimn/mode/2up",
       "description": "Foundational book in ecology and sound.",
-      "image": "https://www.dropbox.com/scl/fi/y8kqcuypu9r7bcf0t4zny/1990-spiritual.png?rlkey=1oi2jih3wt41ilnkgi5zwykhd&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1990-spiritual.png?raw=true"
     },
     {
       "year": "1988",
@@ -934,7 +933,7 @@
       "category": "Song",
       "link": "https://www.youtube.com/watch?v=XIXkAx8TVTE",
       "description": "Nu Groove classic from 1988 by Rheji Burrell",
-      "image": "https://www.dropbox.com/scl/fi/kzfwopu4ig2i019crtyso/1988_metroAngelofMercy.jpg?rlkey=75f00lf3hnamimukli4rfogba&dl=0"
+      "image": "https://github.com/vanarnamc/vanarnamc.github.io/blob/main/noise-utopia/assets/images/1988_metroAngelofMercy.jpg?raw=true"
     },
     {
       "year": "1988",
